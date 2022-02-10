@@ -1,0 +1,1476 @@
+{'text': '[Music]', 'start': 14.8, 'duration': 7.62}
+{'text': '[Music]', 'start': 24.95, 'duration': 5.84}
+{'text': '[Music]', 'start': 33.47, 'duration': 4.769}
+{'text': 'hello and welcome', 'start': 35.68, 'duration': 4.24}
+{'text': 'thank you for joining us', 'start': 38.239, 'duration': 5.121}
+{'text': 'this is an unpack like no other', 'start': 39.92, 'duration': 5.92}
+{'text': 'after two years of unprecedented', 'start': 43.36, 'duration': 3.6}
+{'text': 'challenges', 'start': 45.84, 'duration': 2.399}
+{'text': 'our world', 'start': 46.96, 'duration': 2.72}
+{'text': 'has changed', 'start': 48.239, 'duration': 3.281}
+{'text': 'as if our ways', 'start': 49.68, 'duration': 3.199}
+{'text': 'of living', 'start': 51.52, 'duration': 4.879}
+{'text': 'working connecting with one another', 'start': 52.879, 'duration': 5.84}
+{'text': 'our personal values', 'start': 56.399, 'duration': 5.361}
+{'text': 'even our responsibilities to each other', 'start': 58.719, 'duration': 4.961}
+{'text': 'and to society', 'start': 61.76, 'duration': 3.679}
+{'text': 'in our new world', 'start': 63.68, 'duration': 4.72}
+{'text': 'technology has helped in ways we never', 'start': 65.439, 'duration': 4.161}
+{'text': 'expected', 'start': 68.4, 'duration': 4.24}
+{'text': 'enriching human connection creating', 'start': 69.6, 'duration': 4.8}
+{'text': 'positive change', 'start': 72.64, 'duration': 3.76}
+{'text': 'and helping all of us', 'start': 74.4, 'duration': 4.64}
+{'text': 'build a better world today and for the', 'start': 76.4, 'duration': 4.16}
+{'text': 'future', 'start': 79.04, 'duration': 4.16}
+{'text': 'we believe that technological progress', 'start': 80.56, 'duration': 6.239}
+{'text': 'and social progress are intertwined', 'start': 83.2, 'duration': 4.88}
+{'text': 'over the years', 'start': 86.799, 'duration': 4.241}
+{'text': 'samsung has put billions of devices in', 'start': 88.08, 'duration': 6.56}
+{'text': 'the hands of users all around the world', 'start': 91.04, 'duration': 6.24}
+{'text': 'and we know our global scale', 'start': 94.64, 'duration': 6.159}
+{'text': 'and our spirit of openness give us a', 'start': 97.28, 'duration': 5.92}
+{'text': 'unique responsibility', 'start': 100.799, 'duration': 5.6}
+{'text': 'to use our reach to make the biggest', 'start': 103.2, 'duration': 5.12}
+{'text': 'impact possible', 'start': 106.399, 'duration': 4.641}
+{'text': 'and to help the next generation of', 'start': 108.32, 'duration': 5.439}
+{'text': 'leaders and problem solvers make the', 'start': 111.04, 'duration': 6.16}
+{'text': 'world a better place', 'start': 113.759, 'duration': 6.161}
+{'text': 'last year we launched galaxy photo', 'start': 117.2, 'duration': 7.04}
+{'text': 'planet our new sustainability vision', 'start': 119.92, 'duration': 7.28}
+{'text': 'as part of galaxy for the planet samsung', 'start': 124.24, 'duration': 6.639}
+{'text': 'is taking strong actions across our', 'start': 127.2, 'duration': 4.96}
+{'text': 'business', 'start': 130.879, 'duration': 2.72}
+{'text': 'we are building energy saving', 'start': 132.16, 'duration': 4.4}
+{'text': 'technologies into chargers', 'start': 133.599, 'duration': 5.921}
+{'text': 'diverting waste from landfills', 'start': 136.56, 'duration': 5.759}
+{'text': 'and minimizing the plastics in our', 'start': 139.52, 'duration': 5.28}
+{'text': 'packaging we are making product life', 'start': 142.319, 'duration': 5.92}
+{'text': 'cycles longer to reduce and the use', 'start': 144.8, 'duration': 5.519}
+{'text': 'materials', 'start': 148.239, 'duration': 5.28}
+{'text': 'and soon you will hear more about how we', 'start': 150.319, 'duration': 7.041}
+{'text': 'are innovating with recycled debris', 'start': 153.519, 'duration': 6.641}
+{'text': 'every single product we announced today', 'start': 157.36, 'duration': 6.8}
+{'text': 'uses reclaimed ocean-bound plastics', 'start': 160.16, 'duration': 7.439}
+{'text': 'helping to protect our precious oceans', 'start': 164.16, 'duration': 6.0}
+{'text': 'while bringing you the cutting edge', 'start': 167.599, 'duration': 6.161}
+{'text': 'technology you expect from samsung', 'start': 170.16, 'duration': 6.32}
+{'text': 'this is all part of our journey', 'start': 173.76, 'duration': 6.08}
+{'text': 'to help create a better future', 'start': 176.48, 'duration': 6.24}
+{'text': 'and the best parties will not on this', 'start': 179.84, 'duration': 5.44}
+{'text': 'journey alone we are following the', 'start': 182.72, 'duration': 5.76}
+{'text': 'roadmap to the 17 un sustainable', 'start': 185.28, 'duration': 5.039}
+{'text': 'development goals', 'start': 188.48, 'duration': 3.52}
+{'text': 'the global wars', 'start': 190.319, 'duration': 4.721}
+{'text': 'and to be clear these are not just the', 'start': 192.0, 'duration': 4.64}
+{'text': 'un scores', 'start': 195.04, 'duration': 5.199}
+{'text': 'they are yours they are ours they belong', 'start': 196.64, 'duration': 5.679}
+{'text': 'to the whole world', 'start': 200.239, 'duration': 4.881}
+{'text': 'and the whole world is counting on each', 'start': 202.319, 'duration': 5.521}
+{'text': 'of us to help meet them', 'start': 205.12, 'duration': 5.039}
+{'text': "that's why samsung's partnership with", 'start': 207.84, 'duration': 5.2}
+{'text': 'the united nations development program', 'start': 210.159, 'duration': 5.121}
+{'text': 'is so vital', 'start': 213.04, 'duration': 4.32}
+{'text': 'for more about this inspiring', 'start': 215.28, 'duration': 5.039}
+{'text': 'partnership i am pleased to introduce', 'start': 217.36, 'duration': 4.56}
+{'text': 'ahem steiner', 'start': 220.319, 'duration': 4.881}
+{'text': 'administrator of undp', 'start': 221.92, 'duration': 6.0}
+{'text': 'over to you ahim', 'start': 225.2, 'duration': 5.2}
+{'text': 'thank you tm and on behalf of the united', 'start': 227.92, 'duration': 5.12}
+{'text': 'nations development program undp', 'start': 230.4, 'duration': 4.8}
+{'text': "i'm honored to join you and millions of", 'start': 233.04, 'duration': 3.36}
+{'text': 'others today', 'start': 235.2, 'duration': 2.959}
+{'text': "we're all at a critical moment in our", 'start': 236.4, 'duration': 4.24}
+{'text': 'pursuit to achieve the global goals', 'start': 238.159, 'duration': 4.401}
+{'text': 'the kovit 19 pandemic has brought', 'start': 240.64, 'duration': 4.08}
+{'text': 'unprecedented challenges to our society', 'start': 242.56, 'duration': 4.319}
+{'text': 'and the planet and for the first time in', 'start': 244.72, 'duration': 4.96}
+{'text': "30 years we've witnessed a reversal in", 'start': 246.879, 'duration': 4.881}
+{'text': 'global human development', 'start': 249.68, 'duration': 3.839}
+{'text': "that's why it is more important than", 'start': 251.76, 'duration': 3.839}
+{'text': 'ever to come together to take collective', 'start': 253.519, 'duration': 5.201}
+{'text': 'action towards a greener more resilient', 'start': 255.599, 'duration': 4.48}
+{'text': 'future for all', 'start': 258.72, 'duration': 3.039}
+{'text': 'if there is one thing the covet 19', 'start': 260.079, 'duration': 3.361}
+{'text': 'pandemic has taught us it is how', 'start': 261.759, 'duration': 3.761}
+{'text': 'connected to the planet and to each', 'start': 263.44, 'duration': 3.68}
+{'text': 'other we all are', 'start': 265.52, 'duration': 4.0}
+{'text': 'it is clear that technology is a driving', 'start': 267.12, 'duration': 4.16}
+{'text': 'force behind forging those connections', 'start': 269.52, 'duration': 4.239}
+{'text': 'not only in our daily lives but also in', 'start': 271.28, 'duration': 5.28}
+{'text': 'helping to shape our collective future', 'start': 273.759, 'duration': 5.041}
+{'text': 'technology can help us build back better', 'start': 276.56, 'duration': 3.6}
+{'text': 'from crisis', 'start': 278.8, 'duration': 3.52}
+{'text': 'and even enable us as a society to be', 'start': 280.16, 'duration': 4.479}
+{'text': 'better equipped to propel progress', 'start': 282.32, 'duration': 4.0}
+{'text': 'it is with those innovative principles', 'start': 284.639, 'duration': 3.361}
+{'text': 'in mind that we have founded a strong', 'start': 286.32, 'duration': 4.319}
+{'text': 'partnership upon which we can build even', 'start': 288.0, 'duration': 3.68}
+{'text': 'further', 'start': 290.639, 'duration': 2.801}
+{'text': 'with samsung we created the samsung', 'start': 291.68, 'duration': 4.079}
+{'text': 'global goals app now installed on nearly', 'start': 293.44, 'duration': 5.759}
+{'text': '200 million mobile devices worldwide', 'start': 295.759, 'duration': 4.801}
+{'text': "together we've inspired people", 'start': 299.199, 'duration': 2.881}
+{'text': 'throughout the world to learn about the', 'start': 300.56, 'duration': 4.24}
+{'text': 'global goals and take action to achieve', 'start': 302.08, 'duration': 3.76}
+{'text': 'them', 'start': 304.8, 'duration': 2.88}
+{'text': 'the scale and impact that has been made', 'start': 305.84, 'duration': 3.6}
+{'text': 'possible through partnerships like our', 'start': 307.68, 'duration': 4.079}
+{'text': 'collaboration with samsung is informing', 'start': 309.44, 'duration': 4.16}
+{'text': "the next generation of undp's own", 'start': 311.759, 'duration': 4.16}
+{'text': 'digital strategy 2.0 and through', 'start': 313.6, 'duration': 4.8}
+{'text': 'generation 17 we are working to', 'start': 315.919, 'duration': 4.0}
+{'text': 'highlight the critical importance of', 'start': 318.4, 'duration': 4.32}
+{'text': 'youth in achieving the global goals', 'start': 319.919, 'duration': 5.041}
+{'text': 'young people are often directly exposed', 'start': 322.72, 'duration': 3.68}
+{'text': 'to the effects of climate change', 'start': 324.96, 'duration': 3.679}
+{'text': 'conflict exclusion and economic', 'start': 326.4, 'duration': 3.68}
+{'text': 'instability', 'start': 328.639, 'duration': 3.601}
+{'text': 'in many parts of the world it is still', 'start': 330.08, 'duration': 4.0}
+{'text': 'difficult for young people to be heard', 'start': 332.24, 'duration': 3.84}
+{'text': 'and to influence decision-making', 'start': 334.08, 'duration': 3.2}
+{'text': 'processes', 'start': 336.08, 'duration': 3.679}
+{'text': 'yet youth represent our best hope for', 'start': 337.28, 'duration': 5.04}
+{'text': 'positive change at the front lines in', 'start': 339.759, 'duration': 5.761}
+{'text': 'our communities and on the global stage', 'start': 342.32, 'duration': 5.2}
+{'text': 'that is why we must find ways to empower', 'start': 345.52, 'duration': 3.519}
+{'text': 'young leaders and practitioners who are', 'start': 347.52, 'duration': 4.0}
+{'text': 'mobilizing their generation the largest', 'start': 349.039, 'duration': 4.88}
+{'text': 'in history and now some 1.8 billion', 'start': 351.52, 'duration': 4.88}
+{'text': 'strong to tip the balance in the right', 'start': 353.919, 'duration': 5.681}
+{'text': 'direction at this pivotal moment today', 'start': 356.4, 'duration': 4.799}
+{'text': 'we are pleased to introduce the next', 'start': 359.6, 'duration': 3.92}
+{'text': 'generation 17 young leaders and set the', 'start': 361.199, 'duration': 4.801}
+{'text': 'stage for them to share their stories of', 'start': 363.52, 'duration': 3.76}
+{'text': 'change', 'start': 366.0, 'duration': 3.68}
+{'text': 'these inspiring advocates are reminding', 'start': 367.28, 'duration': 4.479}
+{'text': 'us of the urgency to step up our efforts', 'start': 369.68, 'duration': 5.68}
+{'text': 'on education inclusion climate and more', 'start': 371.759, 'duration': 6.321}
+{'text': 'as we also focus on improved resilience', 'start': 375.36, 'duration': 6.08}
+{'text': 'in the face of crisis thank you samsung', 'start': 378.08, 'duration': 5.839}
+{'text': 'for your impactful partnership', 'start': 381.44, 'duration': 4.479}
+{'text': 'here at undp we are proud to continue', 'start': 383.919, 'duration': 4.241}
+{'text': 'our work together to further the global', 'start': 385.919, 'duration': 3.201}
+{'text': 'goals', 'start': 388.16, 'duration': 4.0}
+{'text': 'building a brighter more sustainable and', 'start': 389.12, 'duration': 6.72}
+{'text': 'more inclusive future for all', 'start': 392.16, 'duration': 3.68}
+{'text': 'thank you so much ahem', 'start': 395.919, 'duration': 4.481}
+{'text': 'we are proud of this work and these', 'start': 397.84, 'duration': 5.52}
+{'text': 'young leaders they embody the true', 'start': 400.4, 'duration': 5.919}
+{'text': 'spirit of open innovation', 'start': 403.36, 'duration': 6.399}
+{'text': 'in our new world technology should serve', 'start': 406.319, 'duration': 4.561}
+{'text': 'everyone', 'start': 409.759, 'duration': 4.56}
+{'text': 'enabling progress for each of us and for', 'start': 410.88, 'duration': 4.8}
+{'text': 'all of us', 'start': 414.319, 'duration': 3.841}
+{'text': 'with the freedom to choose and customize', 'start': 415.68, 'duration': 4.959}
+{'text': 'what works for you', 'start': 418.16, 'duration': 5.039}
+{'text': 'be the best best-in-class security and', 'start': 420.639, 'duration': 6.321}
+{'text': 'with the control over your privacy', 'start': 423.199, 'duration': 6.56}
+{'text': 'all powered by open partnerships that', 'start': 426.96, 'duration': 6.32}
+{'text': 'push the whole industry forward', 'start': 429.759, 'duration': 6.88}
+{'text': 'sustain a lowest ecosystem and deliver', 'start': 433.28, 'duration': 7.039}
+{'text': 'the very best experience for every user', 'start': 436.639, 'duration': 7.601}
+{'text': 'every day everywhere on the planet', 'start': 440.319, 'duration': 7.121}
+{'text': "this is samsung's continued mission to", 'start': 444.24, 'duration': 6.72}
+{'text': "connect people everywhere we don't just", 'start': 447.44, 'duration': 5.28}
+{'text': 'operate globally', 'start': 450.96, 'duration': 4.239}
+{'text': 'we innovate globally too', 'start': 452.72, 'duration': 5.84}
+{'text': 'at 22 r d hubs and eight manufacturing', 'start': 455.199, 'duration': 7.041}
+{'text': 'centers that serve every continent', 'start': 458.56, 'duration': 6.639}
+{'text': 'this global mindset informs everything', 'start': 462.24, 'duration': 4.32}
+{'text': 'we do', 'start': 465.199, 'duration': 4.801}
+{'text': 'and shapes every new galaxy technology', 'start': 466.56, 'duration': 7.44}
+{'text': 'so we can stay ahead of a changing world', 'start': 470.0, 'duration': 6.72}
+{'text': 'understand what users want and need', 'start': 474.0, 'duration': 4.4}
+{'text': 'around the globe', 'start': 476.72, 'duration': 3.599}
+{'text': 'and open the future', 'start': 478.4, 'duration': 2.96}
+{'text': 'for you', 'start': 480.319, 'duration': 2.641}
+{'text': 'today', 'start': 481.36, 'duration': 4.239}
+{'text': 'in just a moment you will get the first', 'start': 482.96, 'duration': 4.72}
+{'text': 'glimpse of that future', 'start': 485.599, 'duration': 4.561}
+{'text': 'a high performance tool for creating', 'start': 487.68, 'duration': 5.44}
+{'text': 'content that has an impact', 'start': 490.16, 'duration': 5.439}
+{'text': 'with advanced video capturing', 'start': 493.12, 'duration': 5.6}
+{'text': 'editing and sharing capabilities', 'start': 495.599, 'duration': 5.921}
+{'text': "it's the ultimate smartphone", 'start': 498.72, 'duration': 5.84}
+{'text': 'to rewrite the rules of innovation', 'start': 501.52, 'duration': 6.399}
+{'text': 'to make your everyday epic', 'start': 504.56, 'duration': 6.4}
+{'text': 'and it will empower more people from', 'start': 507.919, 'duration': 6.8}
+{'text': 'more places to join in building a more', 'start': 510.96, 'duration': 5.999}
+{'text': 'inclusive future', 'start': 514.719, 'duration': 6.32}
+{'text': 'that picture begins right now as we open', 'start': 516.959, 'duration': 8.32}
+{'text': 'the door to a new world of innovation', 'start': 521.039, 'duration': 9.441}
+{'text': 'welcome to samsung galaxy bumper', 'start': 525.279, 'duration': 5.201}
+{'text': "this season's inventors ball at the", 'start': 532.16, 'duration': 3.76}
+{'text': 'palace is a highly sought after', 'start': 533.92, 'duration': 4.56}
+{'text': 'invitation where the most innovative', 'start': 535.92, 'duration': 7.039}
+{'text': "minds try to gain the queen's attention", 'start': 538.48, 'duration': 4.479}
+{'text': 'lord mcintosh', 'start': 544.56, 'duration': 3.56}
+{'text': 'your highness', 'start': 552.399, 'duration': 4.641}
+{'text': 'i give you', 'start': 554.64, 'duration': 5.639}
+{'text': 'the raincoat', 'start': 557.04, 'duration': 3.239}
+{'text': '[Music]', 'start': 565.2, 'duration': 3.28}
+{'text': 'next', 'start': 567.44, 'duration': 4.839}
+{'text': 'lord tristan', 'start': 568.48, 'duration': 3.799}
+{'text': 'your highness i give you', 'start': 578.32, 'duration': 4.079}
+{'text': 'the samsung galaxy', 'start': 580.48, 'duration': 4.919}
+{'text': 's22', 'start': 582.399, 'duration': 3.0}
+{'text': 'what is it', 'start': 586.08, 'duration': 2.8}
+{'text': 'it is a correspondence device that', 'start': 587.2, 'duration': 4.57}
+{'text': 'produces moving pictures', 'start': 588.88, 'duration': 4.24}
+{'text': '[Music]', 'start': 591.77, 'duration': 4.15}
+{'text': 'it is beautiful', 'start': 593.12, 'duration': 2.8}
+{'text': '[Music]', 'start': 599.6, 'duration': 6.32}
+{'text': 'we need better lighting', 'start': 603.68, 'duration': 4.23}
+{'text': 'douse the curtains', 'start': 605.92, 'duration': 4.88}
+{'text': '[Music]', 'start': 607.91, 'duration': 7.049}
+{'text': 'make them gleam and shimmer', 'start': 610.8, 'duration': 4.159}
+{'text': 'what are those circles the large sensor', 'start': 616.24, 'duration': 6.32}
+{'text': 'camera bring them close', 'start': 619.04, 'duration': 3.52}
+{'text': 'closer', 'start': 624.24, 'duration': 2.48}
+{'text': 'what do they do it captures exceptional', 'start': 629.36, 'duration': 4.719}
+{'text': 'night shots with image stabilization', 'start': 631.519, 'duration': 4.801}
+{'text': 'i have no idea what that means', 'start': 634.079, 'duration': 4.88}
+{'text': 'nor do i', 'start': 636.32, 'duration': 2.639}
+{'text': 'rotate them around', 'start': 641.279, 'duration': 3.641}
+{'text': '[Music]', 'start': 645.23, 'duration': 3.079}
+{'text': '[Music]', 'start': 654.32, 'duration': 3.429}
+{'text': 'that', 'start': 657.76, 'duration': 5.44}
+{'text': 'is how to present machines of such art', 'start': 658.72, 'duration': 4.48}
+{'text': 'and when will you present the finished', 'start': 664.959, 'duration': 4.241}
+{'text': 'product to the court', 'start': 666.72, 'duration': 3.52}
+{'text': 'shortly', 'start': 669.2, 'duration': 3.59}
+{'text': 'about 210 years your highness', 'start': 670.24, 'duration': 4.48}
+{'text': '[Music]', 'start': 672.79, 'duration': 3.73}
+{'text': 'two hundred and nine', 'start': 674.72, 'duration': 4.99}
+{'text': '[Applause]', 'start': 676.52, 'duration': 3.19}
+{'text': '[Music]', 'start': 683.74, 'duration': 3.629}
+{'text': '[Music]', 'start': 691.21, 'duration': 15.27}
+{'text': 'the galaxy s22 and s22 plus are here', 'start': 701.92, 'duration': 6.4}
+{'text': 'we created these smartphones for people', 'start': 706.48, 'duration': 3.84}
+{'text': 'who want to transform ordinary moments', 'start': 708.32, 'duration': 4.72}
+{'text': 'into extraordinary experiences galaxy', 'start': 710.32, 'duration': 6.0}
+{'text': 's22 and s22 plus are based on the iconic', 'start': 713.04, 'duration': 5.2}
+{'text': 's-series design', 'start': 716.32, 'duration': 3.44}
+{'text': 'when you look at these devices from the', 'start': 718.24, 'duration': 4.48}
+{'text': 'side you can see a flat elegant profile', 'start': 719.76, 'duration': 4.639}
+{'text': 'that creates an aesthetic balanced', 'start': 722.72, 'duration': 3.2}
+{'text': 'effect', 'start': 724.399, 'duration': 3.601}
+{'text': 'these smartphones also have a dynamic', 'start': 725.92, 'duration': 3.919}
+{'text': 'and charming color palette and are', 'start': 728.0, 'duration': 4.88}
+{'text': 'available in four stylish shades', 'start': 729.839, 'duration': 4.881}
+{'text': 'today a lot of us express ourselves', 'start': 732.88, 'duration': 3.28}
+{'text': 'through visuals', 'start': 734.72, 'duration': 4.4}
+{'text': 'so with the galaxy s 22 series we set', 'start': 736.16, 'duration': 4.96}
+{'text': 'out to take that creation to a whole new', 'start': 739.12, 'duration': 2.88}
+{'text': 'level', 'start': 741.12, 'duration': 3.6}
+{'text': 'starting with your smartphone camera', 'start': 742.0, 'duration': 5.92}
+{'text': 'galaxy s22 and s22 plus bring you pro', 'start': 744.72, 'duration': 5.44}
+{'text': 'grade camera quality across multiple', 'start': 747.92, 'duration': 4.24}
+{'text': 'lenses', 'start': 750.16, 'duration': 4.64}
+{'text': 'a new 50 megapixel wide lens', 'start': 752.16, 'duration': 5.2}
+{'text': 'provides enhanced resolution', 'start': 754.8, 'duration': 4.96}
+{'text': 'and its larger sensor lets in more light', 'start': 757.36, 'duration': 5.68}
+{'text': 'so everyone will look great day or night', 'start': 759.76, 'duration': 5.44}
+{'text': "there's also a new 10 megapixel tele", 'start': 763.04, 'duration': 4.88}
+{'text': 'lens with three times optical zoom which', 'start': 765.2, 'duration': 4.639}
+{'text': 'means you can travel light and still', 'start': 767.92, 'duration': 4.24}
+{'text': 'take brilliant shots', 'start': 769.839, 'duration': 4.8}
+{'text': 'the galaxy s22 series helps you take', 'start': 772.16, 'duration': 5.52}
+{'text': 'great photos and incredible videos like', 'start': 774.639, 'duration': 4.241}
+{'text': "when you're looking at a beautiful", 'start': 777.68, 'duration': 2.48}
+{'text': 'skyline', 'start': 778.88, 'duration': 3.519}
+{'text': 'if the sun is behind you backlighting', 'start': 780.16, 'duration': 4.16}
+{'text': 'can make it difficult to capture a great', 'start': 782.399, 'duration': 2.801}
+{'text': 'shot', 'start': 784.32, 'duration': 3.84}
+{'text': 'but with super hdr on your s22 you can', 'start': 785.2, 'duration': 5.12}
+{'text': 'capture once-in-a-lifetime moments in', 'start': 788.16, 'duration': 4.239}
+{'text': 'well-defined videos even with', 'start': 790.32, 'duration': 3.36}
+{'text': 'backlighting', 'start': 792.399, 'duration': 4.161}
+{'text': 'look at the difference', 'start': 793.68, 'duration': 2.88}
+{'text': 'this camera sets a new standard for', 'start': 796.8, 'duration': 5.13}
+{'text': 'smartphones let me show you what i mean', 'start': 798.839, 'duration': 6.261}
+{'text': '[Music]', 'start': 801.93, 'duration': 3.17}
+{'text': 'i love walking around new york city', 'start': 806.48, 'duration': 3.359}
+{'text': "there's a new adventure around every", 'start': 808.32, 'duration': 4.16}
+{'text': "corner and there's always so much to see", 'start': 809.839, 'duration': 4.56}
+{'text': 'when i see something inspiring i just', 'start': 812.48, 'duration': 4.799}
+{'text': 'have to stop and capture the moment', 'start': 814.399, 'duration': 4.56}
+{'text': "even when i'm on the move my video is", 'start': 817.279, 'duration': 2.8}
+{'text': 'stable', 'start': 818.959, 'duration': 3.68}
+{'text': "that's because of a 58 wider correction", 'start': 820.079, 'duration': 5.281}
+{'text': 'angle of optical image stabilization and', 'start': 822.639, 'duration': 5.44}
+{'text': 'video digital image stabilization which', 'start': 825.36, 'duration': 4.719}
+{'text': 'analyzes four times more motion data', 'start': 828.079, 'duration': 3.681}
+{'text': 'than before', 'start': 830.079, 'duration': 3.44}
+{'text': "when you're ready for a night out you", 'start': 831.76, 'duration': 5.04}
+{'text': 'always want to look your best', 'start': 833.519, 'duration': 3.281}
+{'text': 'the galaxy s22 can snap amazing selfies', 'start': 836.959, 'duration': 5.841}
+{'text': 'the front camera takes great portraits', 'start': 840.8, 'duration': 4.0}
+{'text': 'even in low light', 'start': 842.8, 'duration': 5.599}
+{'text': 'and the results are bright and clear', 'start': 844.8, 'duration': 5.44}
+{'text': 'you can impress your followers', 'start': 848.399, 'duration': 3.44}
+{'text': 'or even film a submission for an', 'start': 850.24, 'duration': 4.92}
+{'text': 'upcoming audition', 'start': 851.839, 'duration': 3.321}
+{'text': 'ai stereo depth map is now integrated', 'start': 856.8, 'duration': 4.399}
+{'text': 'into portrait mode', 'start': 859.68, 'duration': 4.719}
+{'text': 'on the galaxy s22 series', 'start': 861.199, 'duration': 5.681}
+{'text': 'without ai stereo depth map smartphone', 'start': 864.399, 'duration': 4.721}
+{'text': "cameras often can't identify and process", 'start': 866.88, 'duration': 4.319}
+{'text': 'thin objects like a straw', 'start': 869.12, 'duration': 4.88}
+{'text': 'but with the s22 the ai will not only', 'start': 871.199, 'duration': 4.64}
+{'text': 'allow you to focus on precisely what you', 'start': 874.0, 'duration': 2.959}
+{'text': 'care about', 'start': 875.839, 'duration': 3.12}
+{'text': 'it can also correctly interpret what', 'start': 876.959, 'duration': 3.761}
+{'text': 'should be vivid in your image with', 'start': 878.959, 'duration': 4.721}
+{'text': 'improved object segmentation', 'start': 880.72, 'duration': 6.64}
+{'text': 'all of that sounds pretty amazing right', 'start': 883.68, 'duration': 5.279}
+{'text': 'we know that your camera is super', 'start': 887.36, 'duration': 3.68}
+{'text': 'important to your social life and your', 'start': 888.959, 'duration': 3.601}
+{'text': 'social media', 'start': 891.04, 'duration': 3.52}
+{'text': 'we partnered with snap to provide a more', 'start': 892.56, 'duration': 4.079}
+{'text': 'integrated camera experience with the', 'start': 894.56, 'duration': 4.48}
+{'text': 'galaxy s22 series', 'start': 896.639, 'duration': 5.041}
+{'text': 'now you can take advantage of s22 smooth', 'start': 899.04, 'duration': 5.2}
+{'text': 'zoom with tele lens and night mode all', 'start': 901.68, 'duration': 3.8}
+{'text': 'right from the snapchat app', 'start': 904.24, 'duration': 4.539}
+{'text': '[Music]', 'start': 905.48, 'duration': 3.299}
+{'text': 'and look how the camera makes the', 'start': 909.6, 'duration': 2.64}
+{'text': 'subject really stand out from the', 'start': 910.88, 'duration': 2.639}
+{'text': 'background', 'start': 912.24, 'duration': 4.0}
+{'text': 'even for portrait video', 'start': 913.519, 'duration': 7.12}
+{'text': 'ai autofocus vdis and super hdr enhance', 'start': 916.24, 'duration': 6.64}
+{'text': 'that experience even further providing', 'start': 920.639, 'duration': 4.401}
+{'text': 'masterful shots from different angles', 'start': 922.88, 'duration': 5.28}
+{'text': 'and in different lighting conditions', 'start': 925.04, 'duration': 5.039}
+{'text': 'and all of that tech is integrated with', 'start': 928.16, 'duration': 3.44}
+{'text': 'the in-app camera of your favorite', 'start': 930.079, 'duration': 3.841}
+{'text': 'social apps so you can capture gorgeous', 'start': 931.6, 'duration': 3.76}
+{'text': 'videos', 'start': 933.92, 'duration': 3.76}
+{'text': 'straight from instagram snapchat and', 'start': 935.36, 'duration': 5.279}
+{'text': 'tick tock', 'start': 937.68, 'duration': 4.8}
+{'text': 'look how easily you can share files and', 'start': 940.639, 'duration': 5.041}
+{'text': 'photos with quickshare', 'start': 942.48, 'duration': 3.2}
+{'text': "it's so fun looking back at all the", 'start': 949.36, 'duration': 5.56}
+{'text': 'shots captured during the day', 'start': 950.959, 'duration': 3.961}
+{'text': 'getting live feedback has never been so', 'start': 957.92, 'duration': 4.4}
+{'text': 'easy with google duo you can provide', 'start': 959.92, 'duration': 4.159}
+{'text': 'instant feedback while watching a video', 'start': 962.32, 'duration': 4.64}
+{'text': 'together', 'start': 964.079, 'duration': 5.601}
+{'text': '[Music]', 'start': 966.96, 'duration': 5.6}
+{'text': 'night or day snowfall or sunlight the', 'start': 969.68, 'duration': 5.2}
+{'text': 'galaxy s22 series will take your daily', 'start': 972.56, 'duration': 4.639}
+{'text': 'life to the next level and make it more', 'start': 974.88, 'duration': 4.879}
+{'text': 'epic than', 'start': 977.199, 'duration': 2.56}
+{'text': 'one ever three', 'start': 981.44, 'duration': 20.54}
+{'text': '[Music]', 'start': 983.74, 'duration': 20.59}
+{'text': '[Applause]', 'start': 1001.98, 'duration': 5.859}
+{'text': '[Music]', 'start': 1004.33, 'duration': 6.23}
+{'text': 'the galaxy s22 series breaks the rules', 'start': 1007.839, 'duration': 5.44}
+{'text': 'of every category it sets a new standard', 'start': 1010.56, 'duration': 4.959}
+{'text': 'across the mobile industry offering up', 'start': 1013.279, 'duration': 4.56}
+{'text': 'impressive innovations at every turn and', 'start': 1015.519, 'duration': 4.401}
+{'text': 'elevating everyday moments and memories', 'start': 1017.839, 'duration': 4.8}
+{'text': 'into epic experiences', 'start': 1019.92, 'duration': 4.879}
+{'text': 'with a new 50 megapixel wide lens with a', 'start': 1022.639, 'duration': 4.56}
+{'text': 'larger sensor and a new 10 megapixel', 'start': 1024.799, 'duration': 4.64}
+{'text': 'tele lens with three times optical zoom', 'start': 1027.199, 'duration': 5.201}
+{'text': "you'll get brilliant lifelike shots", 'start': 1029.439, 'duration': 5.201}
+{'text': 'this camera also pushes the boundaries', 'start': 1032.4, 'duration': 3.679}
+{'text': 'of videography', 'start': 1034.64, 'duration': 5.36}
+{'text': 'galaxy s22 will be available for 799', 'start': 1036.079, 'duration': 8.0}
+{'text': 'and s22 plus will be available for 999', 'start': 1040.0, 'duration': 8.64}
+{'text': 'you can pre-order both starting today', 'start': 1044.079, 'duration': 6.641}
+{'text': 'you can get even more color options', 'start': 1048.64, 'duration': 5.039}
+{'text': 'exclusively at samsung.com', 'start': 1050.72, 'duration': 5.28}
+{'text': 'and the galaxy s22 series comes with so', 'start': 1053.679, 'duration': 4.561}
+{'text': "many accessories to fit your needs we're", 'start': 1056.0, 'duration': 4.559}
+{'text': "sure you'll find one that you'll love", 'start': 1058.24, 'duration': 3.92}
+{'text': 'we look forward to seeing all of the', 'start': 1060.559, 'duration': 3.521}
+{'text': 'amazing things you do with your galaxy', 'start': 1062.16, 'duration': 5.639}
+{'text': 's22 series', 'start': 1064.08, 'duration': 3.719}
+{'text': '[Music]', 'start': 1071.56, 'duration': 4.95}
+{'text': 'stars', 'start': 1079.679, 'duration': 5.771}
+{'text': '[Music]', 'start': 1082.31, 'duration': 3.14}
+{'text': 'two', 'start': 1098.799, 'duration': 3.0}
+{'text': '[Music]', 'start': 1103.37, 'duration': 3.89}
+{'text': 'ciao', 'start': 1110.08, 'duration': 3.0}
+{'text': '[Music]', 'start': 1123.97, 'duration': 9.91}
+{'text': 'town', 'start': 1130.88, 'duration': 3.0}
+{'text': '[Music]', 'start': 1135.18, 'duration': 3.319}
+{'text': "here at samsung we're constantly pushing", 'start': 1148.4, 'duration': 4.399}
+{'text': 'the boundaries of our industry and what', 'start': 1150.64, 'duration': 4.32}
+{'text': 'technology can do for you', 'start': 1152.799, 'duration': 4.321}
+{'text': 'life is full of possibilities and with', 'start': 1154.96, 'duration': 4.24}
+{'text': 'galaxy you can make the most of them', 'start': 1157.12, 'duration': 4.24}
+{'text': "every single day we're committed to", 'start': 1159.2, 'duration': 4.32}
+{'text': 'delivering experiences that empower you', 'start': 1161.36, 'duration': 4.48}
+{'text': 'to make everyday epic', 'start': 1163.52, 'duration': 4.48}
+{'text': "we're bringing you an ultra smartphone", 'start': 1165.84, 'duration': 4.4}
+{'text': 'powered by galaxy note', 'start': 1168.0, 'duration': 5.679}
+{'text': 'meet the galaxy s 22 ultra', 'start': 1170.24, 'duration': 5.679}
+{'text': 'it breaks the rules of mobile innovation', 'start': 1173.679, 'duration': 4.321}
+{'text': 'and is truly a leap forward in mobile', 'start': 1175.919, 'duration': 3.681}
+{'text': 'technology', 'start': 1178.0, 'duration': 3.919}
+{'text': 'the galaxy s 22 ultra is simple and', 'start': 1179.6, 'duration': 4.64}
+{'text': 'striking taking its cues from the iconic', 'start': 1181.919, 'duration': 5.041}
+{'text': 'design of the galaxy note we seamlessly', 'start': 1184.24, 'duration': 4.48}
+{'text': 'integrated the camera lenses into the', 'start': 1186.96, 'duration': 4.0}
+{'text': 'phone its mirrored metal frame is', 'start': 1188.72, 'duration': 4.319}
+{'text': 'symmetrical giving off a real sense of', 'start': 1190.96, 'duration': 3.28}
+{'text': 'balance', 'start': 1193.039, 'duration': 4.241}
+{'text': 'and it comes in four bold classic colors', 'start': 1194.24, 'duration': 6.08}
+{'text': 'phantom black phantom white green and a', 'start': 1197.28, 'duration': 6.32}
+{'text': 'sophisticated all-new burgundy', 'start': 1200.32, 'duration': 5.52}
+{'text': 'last year we opened up a new world of', 'start': 1203.6, 'duration': 4.319}
+{'text': 'possibilities for the s series making', 'start': 1205.84, 'duration': 4.48}
+{'text': 'the galaxy s21 ultra compatible with the', 'start': 1207.919, 'duration': 4.801}
+{'text': "s pen and today we're thrilled to", 'start': 1210.32, 'duration': 5.04}
+{'text': 'introduce the first galaxy s series', 'start': 1212.72, 'duration': 5.6}
+{'text': 'model ever with a built-in s-pen', 'start': 1215.36, 'duration': 5.28}
+{'text': 'our engineers and developers ingeniously', 'start': 1218.32, 'duration': 5.04}
+{'text': 'fit this pin into the hardware itself', 'start': 1220.64, 'duration': 6.159}
+{'text': 'all while maintaining high performance', 'start': 1223.36, 'duration': 5.52}
+{'text': 'the s-pen helps you work and create more', 'start': 1226.799, 'duration': 4.0}
+{'text': 'efficiently and with more detail than', 'start': 1228.88, 'duration': 3.2}
+{'text': 'ever', 'start': 1230.799, 'duration': 3.041}
+{'text': 'compared to the galaxy note 20 and the', 'start': 1232.08, 'duration': 4.959}
+{'text': 's21 ultra we made this display three', 'start': 1233.84, 'duration': 6.079}
+{'text': 'times more responsive to the s pen not', 'start': 1237.039, 'duration': 4.961}
+{'text': 'only by making hardware improvements but', 'start': 1239.919, 'duration': 4.081}
+{'text': 'by leveraging ai too', 'start': 1242.0, 'duration': 4.32}
+{'text': 'based on extensive analysis we enhanced', 'start': 1244.0, 'duration': 5.2}
+{'text': 'our ai-based point prediction software', 'start': 1246.32, 'duration': 5.76}
+{'text': 'now galaxy s22 ultra can better predict', 'start': 1249.2, 'duration': 4.959}
+{'text': 'the next point of your s pen so your', 'start': 1252.08, 'duration': 3.68}
+{'text': 'writing and drawing will be smoother', 'start': 1254.159, 'duration': 2.88}
+{'text': 'than ever', 'start': 1255.76, 'duration': 3.36}
+{'text': 'we continuously work with our strategic', 'start': 1257.039, 'duration': 3.921}
+{'text': 'partners to bring you even more', 'start': 1259.12, 'duration': 4.799}
+{'text': 'integrated experiences with the s pen', 'start': 1260.96, 'duration': 4.56}
+{'text': 'like with microsoft', 'start': 1263.919, 'duration': 3.921}
+{'text': 'you can enjoy a rich editing experience', 'start': 1265.52, 'duration': 3.519}
+{'text': 'in outlook', 'start': 1267.84, 'duration': 2.959}
+{'text': "when you're responding to a long email", 'start': 1269.039, 'duration': 2.961}
+{'text': 'for example', 'start': 1270.799, 'duration': 3.681}
+{'text': 's pen can select a specific line and', 'start': 1272.0, 'duration': 4.4}
+{'text': 'reply to that one request', 'start': 1274.48, 'duration': 3.6}
+{'text': 'making it easier to get your point', 'start': 1276.4, 'duration': 3.12}
+{'text': 'across', 'start': 1278.08, 'duration': 3.68}
+{'text': 'from the seamless design to the embedded', 'start': 1279.52, 'duration': 4.72}
+{'text': 's-pen we used our highest quality', 'start': 1281.76, 'duration': 4.56}
+{'text': 'materials to create the galaxy s 22', 'start': 1284.24, 'duration': 3.12}
+{'text': 'series', 'start': 1286.32, 'duration': 3.12}
+{'text': 'including our strongest armor aluminum', 'start': 1287.36, 'duration': 3.36}
+{'text': 'frame yet', 'start': 1289.44, 'duration': 4.88}
+{'text': 'and corning gorilla glass victus plus', 'start': 1290.72, 'duration': 5.68}
+{'text': 'gorilla glass victus plus is on both the', 'start': 1294.32, 'duration': 4.239}
+{'text': 'front and back of the device and is', 'start': 1296.4, 'duration': 4.8}
+{'text': 'currently exclusive to the galaxy s 22', 'start': 1298.559, 'duration': 4.161}
+{'text': 'series', 'start': 1301.2, 'duration': 3.359}
+{'text': 'these materials protect the device', 'start': 1302.72, 'duration': 3.76}
+{'text': 'including the most frequently used part', 'start': 1304.559, 'duration': 4.961}
+{'text': 'of any smartphone the display', 'start': 1306.48, 'duration': 5.199}
+{'text': "with the galaxy s 22 ultra we're", 'start': 1309.52, 'duration': 4.96}
+{'text': 'bringing you an immersive 6.8 inch', 'start': 1311.679, 'duration': 6.0}
+{'text': 'dynamic amoled 2x display with adaptive', 'start': 1314.48, 'duration': 5.92}
+{'text': 'refresh rate it can reach up to 120', 'start': 1317.679, 'duration': 4.961}
+{'text': 'hertz for super smooth scrolling on', 'start': 1320.4, 'duration': 4.48}
+{'text': 'social media and optimize viewing for', 'start': 1322.64, 'duration': 5.039}
+{'text': 'video and games and go as low as 1 hertz', 'start': 1324.88, 'duration': 4.159}
+{'text': "to save energy when you're doing", 'start': 1327.679, 'duration': 3.521}
+{'text': 'something less intensive like looking at', 'start': 1329.039, 'duration': 4.241}
+{'text': 'a photo in your gallery', 'start': 1331.2, 'duration': 4.56}
+{'text': "but what if you're out under the sun", 'start': 1333.28, 'duration': 4.08}
+{'text': 'you try to use your smartphone but you', 'start': 1335.76, 'duration': 3.52}
+{'text': "just can't see your screen", 'start': 1337.36, 'duration': 3.92}
+{'text': "and we've developed a new algorithm to", 'start': 1339.28, 'duration': 4.56}
+{'text': 'tackle this display challenge head on', 'start': 1341.28, 'duration': 5.61}
+{'text': "let's take a closer look", 'start': 1343.84, 'duration': 6.179}
+{'text': '[Applause]', 'start': 1346.89, 'duration': 3.129}
+{'text': 'introducing', 'start': 1356.799, 'duration': 3.331}
+{'text': 'vision booster', 'start': 1358.64, 'duration': 3.84}
+{'text': '[Music]', 'start': 1360.13, 'duration': 5.47}
+{'text': 'galaxy s22 ultra screen has a peak', 'start': 1362.48, 'duration': 7.36}
+{'text': 'brightness of 1750 nits', 'start': 1365.6, 'duration': 4.24}
+{'text': 'but simply making the screen brighter', 'start': 1370.559, 'duration': 4.961}
+{'text': "isn't enough and it can sometimes result", 'start': 1372.559, 'duration': 5.921}
+{'text': 'in a loss of details', 'start': 1375.52, 'duration': 5.12}
+{'text': 'vision booster is a unique solution that', 'start': 1378.48, 'duration': 3.76}
+{'text': 'significantly improves display', 'start': 1380.64, 'duration': 3.76}
+{'text': 'visibility by considering the light', 'start': 1382.24, 'duration': 3.919}
+{'text': 'intensity of the surroundings and its', 'start': 1384.4, 'duration': 4.08}
+{'text': 'influence on the display', 'start': 1386.159, 'duration': 4.561}
+{'text': "vision booster's algorithm analyzes the", 'start': 1388.48, 'duration': 4.64}
+{'text': 'histogram data of all content appearing', 'start': 1390.72, 'duration': 4.959}
+{'text': "on the display inspecting each pixel's", 'start': 1393.12, 'duration': 4.0}
+{'text': 'value', 'start': 1395.679, 'duration': 3.921}
+{'text': 'then it performs tone mapping to adjust', 'start': 1397.12, 'duration': 5.36}
+{'text': 'the display making dark areas brighter', 'start': 1399.6, 'duration': 5.439}
+{'text': 'and colors richer maximizing color', 'start': 1402.48, 'duration': 4.559}
+{'text': 'contrast for a sharper picture', 'start': 1405.039, 'duration': 5.12}
+{'text': 'even under direct sunlight', 'start': 1407.039, 'duration': 4.961}
+{'text': "you'll see a tangible increase in", 'start': 1410.159, 'duration': 4.161}
+{'text': 'viewing', 'start': 1412.0, 'duration': 2.32}
+{'text': 'quality vision booster will help enhance', 'start': 1414.84, 'duration': 4.44}
+{'text': 'your display whatever lighting', 'start': 1417.44, 'duration': 3.76}
+{'text': "conditions you're faced with", 'start': 1419.28, 'duration': 4.32}
+{'text': "it's the result of a balanced alliance", 'start': 1421.2, 'duration': 4.16}
+{'text': 'between optimized hardware and', 'start': 1423.6, 'duration': 3.76}
+{'text': 'intelligent software that automatically', 'start': 1425.36, 'duration': 6.16}
+{'text': 'adapt to your ever-changing environment', 'start': 1427.36, 'duration': 6.24}
+{'text': 'thanks to the all-new vision booster', 'start': 1431.52, 'duration': 5.279}
+{'text': 'algorithm galaxy s22 ultra has our most', 'start': 1433.6, 'duration': 5.28}
+{'text': 'advanced display yet', 'start': 1436.799, 'duration': 4.161}
+{'text': 'it enriches the viewing experience even', 'start': 1438.88, 'duration': 3.96}
+{'text': 'in bright conditions including direct', 'start': 1440.96, 'duration': 4.56}
+{'text': 'sunlight the core power of any', 'start': 1442.84, 'duration': 5.079}
+{'text': 'smartphone is in its processor', 'start': 1445.52, 'duration': 4.56}
+{'text': 'the galaxy s 22 ultra comes with a', 'start': 1447.919, 'duration': 4.88}
+{'text': 'powerful four nanometer processor our', 'start': 1450.08, 'duration': 4.64}
+{'text': 'fastest chip ever', 'start': 1452.799, 'duration': 4.0}
+{'text': 'that means you get phenomenal processing', 'start': 1454.72, 'duration': 4.72}
+{'text': 'and graphics and peak machine learning', 'start': 1456.799, 'duration': 5.681}
+{'text': 'performance which unlocks powerful ai', 'start': 1459.44, 'duration': 6.479}
+{'text': 'across the galaxy s 22 ultra experience', 'start': 1462.48, 'duration': 5.12}
+{'text': 'and we work to regulate the temperature', 'start': 1465.919, 'duration': 3.841}
+{'text': 'of the galaxy s22 while maintaining its', 'start': 1467.6, 'duration': 3.679}
+{'text': 'powerful performance', 'start': 1469.76, 'duration': 4.08}
+{'text': "let's take a look", 'start': 1471.279, 'duration': 2.561}
+{'text': 'our smartphones are incredibly powerful', 'start': 1474.559, 'duration': 6.0}
+{'text': 'the more powerful the technology the', 'start': 1478.32, 'duration': 4.4}
+{'text': 'more energy it requires', 'start': 1480.559, 'duration': 5.6}
+{'text': 'and this energy is usually converted to', 'start': 1482.72, 'duration': 5.6}
+{'text': 'heat', 'start': 1486.159, 'duration': 4.561}
+{'text': 'it requires innovations in heat transfer', 'start': 1488.32, 'duration': 4.32}
+{'text': 'technology which is based on the', 'start': 1490.72, 'duration': 4.48}
+{'text': 'principle of moving energy away from a', 'start': 1492.64, 'duration': 4.56}
+{'text': 'heat source and spreading it out to', 'start': 1495.2, 'duration': 6.04}
+{'text': 'maintain a controlled temperature', 'start': 1497.2, 'duration': 4.04}
+{'text': 'galaxy s22 ultra is equipped with an', 'start': 1501.36, 'duration': 4.559}
+{'text': 'all-new structure made with new', 'start': 1504.159, 'duration': 4.0}
+{'text': 'materials that deliver optimized heat', 'start': 1505.919, 'duration': 3.76}
+{'text': 'dissipation', 'start': 1508.159, 'duration': 4.241}
+{'text': 'to make this possible we improved each', 'start': 1509.679, 'duration': 6.161}
+{'text': 'part of our heat solution', 'start': 1512.4, 'duration': 3.44}
+{'text': 'starting with the thermal interface', 'start': 1516.799, 'duration': 4.401}
+{'text': 'material a substance that improves heat', 'start': 1518.48, 'duration': 5.04}
+{'text': 'transfer between surfaces', 'start': 1521.2, 'duration': 4.959}
+{'text': 'our latest tim was developed using a new', 'start': 1523.52, 'duration': 4.639}
+{'text': 'thicker type of gel to conduct heat', 'start': 1526.159, 'duration': 3.681}
+{'text': 'faster', 'start': 1528.159, 'duration': 4.161}
+{'text': 'we call it the gel tim', 'start': 1529.84, 'duration': 5.439}
+{'text': 'above the gel tim is the nano tin which', 'start': 1532.32, 'duration': 4.959}
+{'text': 'shields electromagnetic interference', 'start': 1535.279, 'duration': 3.361}
+{'text': 'from the ap', 'start': 1537.279, 'duration': 3.76}
+{'text': "it's made with a new flexible nano fiber", 'start': 1538.64, 'duration': 5.12}
+{'text': 'material which is more resistant under', 'start': 1541.039, 'duration': 4.401}
+{'text': 'pressure when compared to the solid', 'start': 1543.76, 'duration': 4.96}
+{'text': 'metal used in previous models', 'start': 1545.44, 'duration': 5.52}
+{'text': 'the new nano tim is not only more', 'start': 1548.72, 'duration': 4.8}
+{'text': 'effective but also moves heat faster to', 'start': 1550.96, 'duration': 4.079}
+{'text': 'the vapor chamber', 'start': 1553.52, 'duration': 4.0}
+{'text': 'the vapor chamber or vc acts as a', 'start': 1555.039, 'duration': 4.561}
+{'text': 'powerful thermal spreader', 'start': 1557.52, 'duration': 5.6}
+{'text': 'in the past the vc rested on the pcb', 'start': 1559.6, 'duration': 5.76}
+{'text': 'but as smartphone batteries became', 'start': 1563.12, 'duration': 4.96}
+{'text': 'bigger the pcb got smaller', 'start': 1565.36, 'duration': 5.04}
+{'text': 'so our engineers had to find a different', 'start': 1568.08, 'duration': 5.199}
+{'text': 'location for the vc to maximize heat', 'start': 1570.4, 'duration': 4.56}
+{'text': 'diffusion', 'start': 1573.279, 'duration': 3.841}
+{'text': 'the new vapor chamber is designed to', 'start': 1574.96, 'duration': 4.48}
+{'text': 'cover the area from the ap to the', 'start': 1577.12, 'duration': 4.799}
+{'text': 'battery enabling a more efficient heat', 'start': 1579.44, 'duration': 3.839}
+{'text': 'transfer', 'start': 1581.919, 'duration': 3.521}
+{'text': "it's made of a new double bonded", 'start': 1583.279, 'duration': 4.321}
+{'text': "stainless steel that's pressed in a way", 'start': 1585.44, 'duration': 4.719}
+{'text': 'that allows the vc to stay thin and', 'start': 1587.6, 'duration': 5.36}
+{'text': 'cover more area while also being more', 'start': 1590.159, 'duration': 5.12}
+{'text': 'durable under pressure', 'start': 1592.96, 'duration': 4.719}
+{'text': 'from the vapor chamber the heat moves to', 'start': 1595.279, 'duration': 4.321}
+{'text': 'the graphite spreading sheet which', 'start': 1597.679, 'duration': 4.48}
+{'text': 'diffuses heat horizontally away from the', 'start': 1599.6, 'duration': 4.48}
+{'text': 'vapor chamber', 'start': 1602.159, 'duration': 3.841}
+{'text': 'the improvements made to each part of', 'start': 1604.08, 'duration': 3.92}
+{'text': 'our heat solution combined with the', 'start': 1606.0, 'duration': 3.76}
+{'text': 'thermal management software which', 'start': 1608.0, 'duration': 4.24}
+{'text': 'optimizes each operation to control heat', 'start': 1609.76, 'duration': 5.36}
+{'text': 'enable the galaxy s22 ultra to rapidly', 'start': 1612.24, 'duration': 5.28}
+{'text': 'dissipate heat effectively cooling your', 'start': 1615.12, 'duration': 3.919}
+{'text': 'phone', 'start': 1617.52, 'duration': 4.639}
+{'text': 'freedom without limitations', 'start': 1619.039, 'duration': 6.161}
+{'text': 'samsung is always pursuing that goal', 'start': 1622.159, 'duration': 6.161}
+{'text': "and with the galaxy s22 ultra we're one", 'start': 1625.2, 'duration': 5.2}
+{'text': 'step closer', 'start': 1628.32, 'duration': 4.32}
+{'text': 'the galaxy s22 ultra is full of', 'start': 1630.4, 'duration': 4.24}
+{'text': 'pioneering technology that can help you', 'start': 1632.64, 'duration': 4.399}
+{'text': 'explore the world your way', 'start': 1634.64, 'duration': 4.159}
+{'text': 'and capture all the incredible things', 'start': 1637.039, 'duration': 3.52}
+{'text': 'you encounter along the way', 'start': 1638.799, 'duration': 3.76}
+{'text': 'to tell you more about the galaxy s22', 'start': 1640.559, 'duration': 3.84}
+{'text': "ultra's camera experience", 'start': 1642.559, 'duration': 5.761}
+{'text': 'please welcome wan jun joy', 'start': 1644.399, 'duration': 3.921}
+{'text': 'thank you drew', 'start': 1649.919, 'duration': 3.521}
+{'text': 'we have made incredible progress in', 'start': 1651.279, 'duration': 4.481}
+{'text': 'mobile camera technology over the past', 'start': 1653.44, 'duration': 4.88}
+{'text': 'decade and we did it all for our', 'start': 1655.76, 'duration': 4.88}
+{'text': 'creative consumers like you', 'start': 1658.32, 'duration': 4.32}
+{'text': 'because we believe that everyone should', 'start': 1660.64, 'duration': 4.399}
+{'text': 'be able to share their unique point of', 'start': 1662.64, 'duration': 4.159}
+{'text': 'view with the world', 'start': 1665.039, 'duration': 3.601}
+{'text': 'and that all starts with the galaxy', 'start': 1666.799, 'duration': 4.561}
+{'text': 'camera experience one that is always', 'start': 1668.64, 'duration': 5.2}
+{'text': 'evolving to match your ever changing', 'start': 1671.36, 'duration': 3.76}
+{'text': 'needs', 'start': 1673.84, 'duration': 3.6}
+{'text': 'as cameras evolved and became more', 'start': 1675.12, 'duration': 4.799}
+{'text': 'central to the smartphone experience the', 'start': 1677.44, 'duration': 4.88}
+{'text': 'industry raised to achieve maximum', 'start': 1679.919, 'duration': 3.841}
+{'text': 'resolution', 'start': 1682.32, 'duration': 3.52}
+{'text': 'we all pushed forward to improve the', 'start': 1683.76, 'duration': 4.48}
+{'text': 'quality of photos and videos without', 'start': 1685.84, 'duration': 4.559}
+{'text': 'sacrificing the size and form factor of', 'start': 1688.24, 'duration': 3.439}
+{'text': 'a smartphone', 'start': 1690.399, 'duration': 4.16}
+{'text': 'and samsung ran ahead of the pack', 'start': 1691.679, 'duration': 5.521}
+{'text': 'introducing an ak video and a 108', 'start': 1694.559, 'duration': 4.881}
+{'text': 'megapixel for the camera in a device', 'start': 1697.2, 'duration': 4.4}
+{'text': 'that fits in your pocket', 'start': 1699.44, 'duration': 4.239}
+{'text': 'this camera produced a vivid 108', 'start': 1701.6, 'duration': 3.92}
+{'text': 'megapixel image', 'start': 1703.679, 'duration': 4.401}
+{'text': 'using a re-mosaic algorithm to remap', 'start': 1705.52, 'duration': 6.08}
+{'text': 'pixels into a conventional rgb pattern', 'start': 1708.08, 'duration': 7.44}
+{'text': 'now the galaxy s22 truss camera uses', 'start': 1711.6, 'duration': 7.12}
+{'text': 'adaptive pixel to merge multiple frames', 'start': 1715.52, 'duration': 6.08}
+{'text': 'into one it combines a detailed 108', 'start': 1718.72, 'duration': 5.52}
+{'text': 'megapixel image with a nonna binning 12', 'start': 1721.6, 'duration': 5.439}
+{'text': 'megapixel image with a more light', 'start': 1724.24, 'duration': 5.12}
+{'text': 'this combination creates an optimally', 'start': 1727.039, 'duration': 5.281}
+{'text': 'bright 108 megapixel image providing', 'start': 1729.36, 'duration': 6.319}
+{'text': 'crisp resolution throughout the day', 'start': 1732.32, 'duration': 5.599}
+{'text': 'but of course the camera experience', 'start': 1735.679, 'duration': 5.36}
+{'text': "isn't only about resolution we know that", 'start': 1737.919, 'duration': 5.601}
+{'text': 'photographers enjoy switching between', 'start': 1741.039, 'duration': 4.64}
+{'text': 'different lenses to capture different', 'start': 1743.52, 'duration': 4.399}
+{'text': 'focal lengths our designers and', 'start': 1745.679, 'duration': 4.641}
+{'text': 'engineers combined powerful software', 'start': 1747.919, 'duration': 4.88}
+{'text': 'with a powerful hardware to introduce a', 'start': 1750.32, 'duration': 5.28}
+{'text': 'quadruple lens camera with 100 times', 'start': 1752.799, 'duration': 4.0}
+{'text': 'space zoom', 'start': 1755.6, 'duration': 3.92}
+{'text': 'setting yet another industry standard', 'start': 1756.799, 'duration': 4.721}
+{'text': 'expanding the kind of content you can', 'start': 1759.52, 'duration': 4.879}
+{'text': 'create and bring the creative power', 'start': 1761.52, 'duration': 6.159}
+{'text': 'firmly in your hands and today', 'start': 1764.399, 'duration': 5.361}
+{'text': 'samsung is elevating the camera', 'start': 1767.679, 'duration': 4.72}
+{'text': 'experience once again with the galaxy', 'start': 1769.76, 'duration': 4.72}
+{'text': 's22 ultra', 'start': 1772.399, 'duration': 6.0}
+{'text': 'our most powerful ai camera yet', 'start': 1774.48, 'duration': 6.559}
+{'text': 'at the heart of our innovation is the ai', 'start': 1778.399, 'duration': 3.601}
+{'text': 'engine', 'start': 1781.039, 'duration': 3.921}
+{'text': 'a neural processing unit capable of deep', 'start': 1782.0, 'duration': 3.919}
+{'text': 'learning', 'start': 1784.96, 'duration': 3.52}
+{'text': 'deep learning powers some incredible', 'start': 1785.919, 'duration': 4.24}
+{'text': 'back-end technologies that use', 'start': 1788.48, 'duration': 5.12}
+{'text': 'intelligence to elevate image quality', 'start': 1790.159, 'duration': 6.24}
+{'text': 'like our detailing answer which renders', 'start': 1793.6, 'duration': 5.199}
+{'text': 'objects or scenes it recognizes with', 'start': 1796.399, 'duration': 4.4}
+{'text': 'more accuracy', 'start': 1798.799, 'duration': 4.48}
+{'text': 'amazing things happen any time of the', 'start': 1800.799, 'duration': 5.921}
+{'text': "day but the lighting isn't always ideal", 'start': 1803.279, 'duration': 6.321}
+{'text': 'like in the evening so we made it our', 'start': 1806.72, 'duration': 4.959}
+{'text': 'mission to help you capture your', 'start': 1809.6, 'duration': 3.92}
+{'text': 'favorite moments whether you are', 'start': 1811.679, 'duration': 4.88}
+{'text': 'shooting by day or in the dark of night', 'start': 1813.52, 'duration': 4.399}
+{'text': 'introducing', 'start': 1816.559, 'duration': 4.36}
+{'text': 'natography', 'start': 1817.919, 'duration': 3.0}
+{'text': 'lure blue', 'start': 1822.08, 'duration': 3.68}
+{'text': 'that brief moment when the sun is about', 'start': 1823.679, 'duration': 5.6}
+{'text': "to set known as the blue hour it's a", 'start': 1825.76, 'duration': 5.44}
+{'text': 'beautiful moment that many of us try to', 'start': 1829.279, 'duration': 4.4}
+{'text': 'capture but struggle to because', 'start': 1831.2, 'duration': 4.32}
+{'text': 'low-light environments present a', 'start': 1833.679, 'duration': 4.48}
+{'text': 'challenge for most smartphone cameras', 'start': 1835.52, 'duration': 4.72}
+{'text': 'to capture a clear image in a dim', 'start': 1838.159, 'duration': 4.321}
+{'text': 'setting enough light must reach and be', 'start': 1840.24, 'duration': 5.039}
+{'text': "absorbed by the camera's image sensor", 'start': 1842.48, 'duration': 6.16}
+{'text': 'galaxy s 22 ultra is equipped with a 2.4', 'start': 1845.279, 'duration': 5.601}
+{'text': 'micrometer large pixel sensor that takes', 'start': 1848.64, 'duration': 4.96}
+{'text': 'in more light and has an anti-reflective', 'start': 1850.88, 'duration': 4.96}
+{'text': 'nano coating on the glass and lens so', 'start': 1853.6, 'duration': 4.0}
+{'text': 'that light can travel to the image', 'start': 1855.84, 'duration': 4.16}
+{'text': 'sensor with fewer reflections', 'start': 1857.6, 'duration': 4.799}
+{'text': 'this allows for crisp photos and videos', 'start': 1860.0, 'duration': 5.36}
+{'text': 'with minimal flair even at night', 'start': 1862.399, 'duration': 5.041}
+{'text': 'all of these hardware improvements when', 'start': 1865.36, 'duration': 4.159}
+{'text': 'combined with optimized software help', 'start': 1867.44, 'duration': 4.88}
+{'text': 'deliver incredible knightography found', 'start': 1869.519, 'duration': 6.4}
+{'text': 'only on galaxy s 22 ultra', 'start': 1872.32, 'duration': 5.839}
+{'text': 'when taking photos in low light night', 'start': 1875.919, 'duration': 4.0}
+{'text': 'solution kicks in', 'start': 1878.159, 'duration': 3.921}
+{'text': 'it uses multi-frame processing to', 'start': 1879.919, 'duration': 4.801}
+{'text': 'capture a series of images in an instant', 'start': 1882.08, 'duration': 6.0}
+{'text': 'removing frames that have noise or blur', 'start': 1884.72, 'duration': 5.76}
+{'text': 'then it merges the remaining frames into', 'start': 1888.08, 'duration': 4.719}
+{'text': 'a single clear shot and uses an', 'start': 1890.48, 'duration': 5.199}
+{'text': 'ai-powered isp algorithm that enhances', 'start': 1892.799, 'duration': 5.12}
+{'text': "the object's true shape color tone and", 'start': 1895.679, 'duration': 4.0}
+{'text': 'details', 'start': 1897.919, 'duration': 3.6}
+{'text': 'night solution also works with portrait', 'start': 1899.679, 'duration': 4.161}
+{'text': 'mode tele lens with three times optical', 'start': 1901.519, 'duration': 5.201}
+{'text': 'zoom and the front camera for selfies', 'start': 1903.84, 'duration': 5.04}
+{'text': 'that means gorgeous photos of you and', 'start': 1906.72, 'duration': 3.81}
+{'text': 'your friends day or night', 'start': 1908.88, 'duration': 5.679}
+{'text': '[Music]', 'start': 1910.53, 'duration': 6.11}
+{'text': 'a video is made up of multiple frames', 'start': 1914.559, 'duration': 4.321}
+{'text': 'captured in quick succession', 'start': 1916.64, 'duration': 4.32}
+{'text': 'in dim environments a slower shutter', 'start': 1918.88, 'duration': 4.0}
+{'text': 'speed helps the image sensor capture', 'start': 1920.96, 'duration': 3.04}
+{'text': 'more light', 'start': 1922.88, 'duration': 2.88}
+{'text': 'but this also makes the camera more', 'start': 1924.0, 'duration': 3.84}
+{'text': 'sensitive to camera shakes resulting in', 'start': 1925.76, 'duration': 3.919}
+{'text': 'blurry footage', 'start': 1927.84, 'duration': 4.559}
+{'text': 'to provide clear and stable night video', 'start': 1929.679, 'duration': 5.6}
+{'text': 'galaxy s s22 ultra employs an intricate', 'start': 1932.399, 'duration': 5.28}
+{'text': 'dual track image stabilization solution', 'start': 1935.279, 'duration': 6.321}
+{'text': 'with ois and vdis', 'start': 1937.679, 'duration': 3.921}
+{'text': 'ois compensates for camera shakes by', 'start': 1942.48, 'duration': 4.24}
+{'text': 'physically moving the lens in the', 'start': 1944.88, 'duration': 4.08}
+{'text': 'opposite direction of the motion', 'start': 1946.72, 'duration': 6.4}
+{'text': "galaxy s22 ultra's ois hardware has a 58", 'start': 1948.96, 'duration': 6.079}
+{'text': 'wider corrective angle compared to its', 'start': 1953.12, 'duration': 4.24}
+{'text': 'predecessors which allows the camera to', 'start': 1955.039, 'duration': 4.161}
+{'text': 'neutralize larger shakes for smooth', 'start': 1957.36, 'duration': 3.19}
+{'text': 'recording', 'start': 1959.2, 'duration': 2.88}
+{'text': '[Music]', 'start': 1960.55, 'duration': 4.489}
+{'text': 'vdis uses software to compensate for the', 'start': 1962.08, 'duration': 5.36}
+{'text': "camera's movements across x y and z", 'start': 1965.039, 'duration': 4.88}
+{'text': 'coordinates with four times the motion', 'start': 1967.44, 'duration': 5.76}
+{'text': 'sampling frequency vdis provides faster', 'start': 1969.919, 'duration': 4.961}
+{'text': 'and more accurate magnitude and', 'start': 1973.2, 'duration': 3.839}
+{'text': 'direction analysis', 'start': 1974.88, 'duration': 4.88}
+{'text': 'galaxy s 22 ultra combines these two', 'start': 1977.039, 'duration': 4.88}
+{'text': 'stabilization technologies to more', 'start': 1979.76, 'duration': 4.639}
+{'text': 'accurately correct distortions', 'start': 1981.919, 'duration': 4.64}
+{'text': 'together they calculate optimal', 'start': 1984.399, 'duration': 4.16}
+{'text': 'corrective values and adjust shaky', 'start': 1986.559, 'duration': 3.921}
+{'text': 'frames one by one', 'start': 1988.559, 'duration': 4.641}
+{'text': 'resulting in smooth video even in low', 'start': 1990.48, 'duration': 4.96}
+{'text': 'light', 'start': 1993.2, 'duration': 2.24}
+{'text': 'to capture brighter videos at night', 'start': 1996.48, 'duration': 6.16}
+{'text': "galaxy s22 ultra's camera automatically", 'start': 1999.679, 'duration': 4.88}
+{'text': 'changes the frame rate between different', 'start': 2002.64, 'duration': 4.24}
+{'text': 'fps in response to subtle changes in', 'start': 2004.559, 'duration': 3.441}
+{'text': 'lighting', 'start': 2006.88, 'duration': 3.36}
+{'text': 'that means the lens gets more light', 'start': 2008.0, 'duration': 4.48}
+{'text': 'providing optimal exposure when the', 'start': 2010.24, 'duration': 5.36}
+{'text': 'frame rate drops below 24 fps super', 'start': 2012.48, 'duration': 5.439}
+{'text': 'night solutions synthesizes up to 12', 'start': 2015.6, 'duration': 5.28}
+{'text': 'frames with the best details as you film', 'start': 2017.919, 'duration': 5.36}
+{'text': 'bringing you bright and detailed results', 'start': 2020.88, 'duration': 4.15}
+{'text': 'even in low light', 'start': 2023.279, 'duration': 11.07}
+{'text': '[Music]', 'start': 2025.03, 'duration': 9.319}
+{'text': 'epic moments happen around the clock and', 'start': 2038.32, 'duration': 5.44}
+{'text': 'dim lighting should never hold you back', 'start': 2041.279, 'duration': 5.201}
+{'text': 'from the blue hour to the dark of night', 'start': 2043.76, 'duration': 6.24}
+{'text': 'galaxy s22 ultra helps you capture every', 'start': 2046.48, 'duration': 4.56}
+{'text': 'moment', 'start': 2050.0, 'duration': 5.119}
+{'text': '[Music]', 'start': 2051.04, 'duration': 6.0}
+{'text': "with the galaxy s 22 series we're", 'start': 2055.119, 'duration': 3.681}
+{'text': 'enabling you to freely create and', 'start': 2057.04, 'duration': 4.0}
+{'text': 'express yourself through photos and', 'start': 2058.8, 'duration': 5.359}
+{'text': "videos day or night we're giving you", 'start': 2061.04, 'duration': 6.16}
+{'text': 'more advanced functions like pro mode', 'start': 2064.159, 'duration': 4.72}
+{'text': "it's a truly professional camera", 'start': 2067.2, 'duration': 3.439}
+{'text': 'experience that even an amateur', 'start': 2068.879, 'duration': 3.28}
+{'text': 'photographer like myself can take', 'start': 2070.639, 'duration': 4.48}
+{'text': 'advantage of in pro mode you can', 'start': 2072.159, 'duration': 7.76}
+{'text': 'manually adjust your shutter speed iso', 'start': 2075.119, 'duration': 4.8}
+{'text': 'manual focus and white balance', 'start': 2080.399, 'duration': 3.68}
+{'text': '[Music]', 'start': 2084.969, 'duration': 3.991}
+{'text': 'and with s22 for the first time pro mode', 'start': 2086.399, 'duration': 4.081}
+{'text': 'gives you the choice to extend these', 'start': 2088.96, 'duration': 3.6}
+{'text': 'powerful capabilities to all of your', 'start': 2090.48, 'duration': 4.72}
+{'text': 'lenses including its two incredible', 'start': 2092.56, 'duration': 5.279}
+{'text': 'telephoto lenses providing three times', 'start': 2095.2, 'duration': 5.919}
+{'text': 'and ten times optical zoom', 'start': 2097.839, 'duration': 5.76}
+{'text': 'and for the true pros out there', 'start': 2101.119, 'duration': 5.201}
+{'text': 'expert raw a multi-frame based raw', 'start': 2103.599, 'duration': 4.721}
+{'text': 'format provides even more flexible', 'start': 2106.32, 'duration': 4.799}
+{'text': 'options the expert raw app opens the', 'start': 2108.32, 'duration': 5.2}
+{'text': 'camera system giving you full control of', 'start': 2111.119, 'duration': 4.161}
+{'text': "your camera's lenses", 'start': 2113.52, 'duration': 3.599}
+{'text': 'as well as autofocus', 'start': 2115.28, 'duration': 3.6}
+{'text': 'iso', 'start': 2117.119, 'duration': 5.121}
+{'text': 'ev and white balance settings', 'start': 2118.88, 'duration': 5.199}
+{'text': 'and with access to all of that rich', 'start': 2122.24, 'duration': 4.08}
+{'text': 'metadata you can edit like a pro', 'start': 2124.079, 'duration': 5.04}
+{'text': 'directly on your galaxy s22 with adobe', 'start': 2126.32, 'duration': 5.519}
+{'text': 'lightroom', 'start': 2129.119, 'duration': 2.72}
+{'text': 'when you want to edit your footage on', 'start': 2133.52, 'duration': 3.599}
+{'text': 'your tablet or your pc the galaxy', 'start': 2135.04, 'duration': 4.16}
+{'text': 'ecosystem makes it easy', 'start': 2137.119, 'duration': 4.321}
+{'text': 'samsung gallery syncs across devices', 'start': 2139.2, 'duration': 4.8}
+{'text': 'with onedrive to provide a completely', 'start': 2141.44, 'duration': 4.48}
+{'text': 'continuous experience', 'start': 2144.0, 'duration': 3.52}
+{'text': 'so if you want to edit some shots from', 'start': 2145.92, 'duration': 3.76}
+{'text': 'your last vacation on your pc', 'start': 2147.52, 'duration': 3.839}
+{'text': 'just pull up the sync photo from your', 'start': 2149.68, 'duration': 4.0}
+{'text': 'gallery and get to work', 'start': 2151.359, 'duration': 4.72}
+{'text': 'the galaxy s 22 ultra will make every', 'start': 2153.68, 'duration': 3.919}
+{'text': 'moment the ones you capture with your', 'start': 2156.079, 'duration': 4.081}
+{'text': 'camera and everything in between more', 'start': 2157.599, 'duration': 4.641}
+{'text': 'epic than ever before', 'start': 2160.16, 'duration': 3.6}
+{'text': "and once you've captured those epic", 'start': 2162.24, 'duration': 3.28}
+{'text': 'moments share them', 'start': 2163.76, 'duration': 3.44}
+{'text': 'our smartphone cameras have changed the', 'start': 2165.52, 'duration': 4.48}
+{'text': 'way we create view and communicate', 'start': 2167.2, 'duration': 4.48}
+{'text': 'they let us express ourselves to the', 'start': 2170.0, 'duration': 3.599}
+{'text': "world and there's no better global", 'start': 2171.68, 'duration': 3.84}
+{'text': 'community than youtube', 'start': 2173.599, 'duration': 4.0}
+{'text': 'youtube gives everyone a voice and a', 'start': 2175.52, 'duration': 4.4}
+{'text': 'place to share who they are', 'start': 2177.599, 'duration': 3.921}
+{'text': 'and smartphone cameras have been an', 'start': 2179.92, 'duration': 4.0}
+{'text': 'essential part of that community today', 'start': 2181.52, 'duration': 4.24}
+{'text': "we're delighted to welcome a special", 'start': 2183.92, 'duration': 4.56}
+{'text': 'guest from youtube', 'start': 2185.76, 'duration': 4.8}
+{'text': 'hi drew and thank you for that gracious', 'start': 2188.48, 'duration': 4.24}
+{'text': "introduction i'm robert kinsel the chief", 'start': 2190.56, 'duration': 4.24}
+{'text': 'business officer of youtube', 'start': 2192.72, 'duration': 4.32}
+{'text': "on behalf of youtube i'm delighted to", 'start': 2194.8, 'duration': 5.039}
+{'text': 'join you at unpack today at youtube our', 'start': 2197.04, 'duration': 5.12}
+{'text': 'mission is to give everyone a voice and', 'start': 2199.839, 'duration': 4.0}
+{'text': 'show them the world', 'start': 2202.16, 'duration': 4.32}
+{'text': 'samsung and youtube are great partners', 'start': 2203.839, 'duration': 4.721}
+{'text': 'because we both recognize the power of', 'start': 2206.48, 'duration': 4.48}
+{'text': 'technology to do just that', 'start': 2208.56, 'duration': 4.4}
+{'text': "and it's our combined efforts that make", 'start': 2210.96, 'duration': 3.68}
+{'text': 'our mission possible', 'start': 2212.96, 'duration': 3.68}
+{'text': 'through technology we both empower', 'start': 2214.64, 'duration': 5.199}
+{'text': 'people around the world to create videos', 'start': 2216.64, 'duration': 5.36}
+{'text': 'connect with each other and view this', 'start': 2219.839, 'duration': 4.24}
+{'text': 'amazing content', 'start': 2222.0, 'duration': 4.4}
+{'text': 'without doubt one of the best ways to', 'start': 2224.079, 'duration': 5.201}
+{'text': 'watch youtube is on a samsung device', 'start': 2226.4, 'duration': 4.719}
+{'text': "we're grateful for our close partnership", 'start': 2229.28, 'duration': 4.0}
+{'text': 'with samsung which is critical to', 'start': 2231.119, 'duration': 4.161}
+{'text': 'delivering a best-in-class youtube', 'start': 2233.28, 'duration': 4.559}
+{'text': 'experience across galaxy devices', 'start': 2235.28, 'duration': 5.12}
+{'text': 'including smart watches tablets', 'start': 2237.839, 'duration': 4.961}
+{'text': 'foldables and smartphones like the new', 'start': 2240.4, 'duration': 4.64}
+{'text': 'galaxy s22', 'start': 2242.8, 'duration': 4.24}
+{'text': 'together we work to ensure the latest', 'start': 2245.04, 'duration': 3.84}
+{'text': 'advanced phone from samsung would', 'start': 2247.04, 'duration': 4.64}
+{'text': 'deliver an unforgettable create and', 'start': 2248.88, 'duration': 5.199}
+{'text': 'watch experience on youtube you can', 'start': 2251.68, 'duration': 4.159}
+{'text': 'create short form mobile content through', 'start': 2254.079, 'duration': 4.561}
+{'text': 'youtube shorts like never before and our', 'start': 2255.839, 'duration': 4.321}
+{'text': "deep integrations with google's", 'start': 2258.64, 'duration': 3.12}
+{'text': 'communication apps', 'start': 2260.16, 'duration': 3.12}
+{'text': 'help you share the fun with your', 'start': 2261.76, 'duration': 2.88}
+{'text': 'favorite people', 'start': 2263.28, 'duration': 3.28}
+{'text': 'for example if you send someone a', 'start': 2264.64, 'duration': 4.08}
+{'text': 'youtube video on messages', 'start': 2266.56, 'duration': 4.08}
+{'text': 'they can see a preview of the video', 'start': 2268.72, 'duration': 3.84}
+{'text': 'right inside the conversation', 'start': 2270.64, 'duration': 3.68}
+{'text': 'and then you can actually watch the', 'start': 2272.56, 'duration': 4.24}
+{'text': 'video together with live sharing on', 'start': 2274.32, 'duration': 4.08}
+{'text': 'google dual', 'start': 2276.8, 'duration': 3.44}
+{'text': 'as part of our partnership with samsung', 'start': 2278.4, 'duration': 4.0}
+{'text': "we're also offering samsung customers", 'start': 2280.24, 'duration': 4.64}
+{'text': 'the exciting benefit of an extended free', 'start': 2282.4, 'duration': 4.56}
+{'text': 'trial of youtube premium with youtube', 'start': 2284.88, 'duration': 4.479}
+{'text': 'premium you can enjoy youtube and', 'start': 2286.96, 'duration': 5.44}
+{'text': 'youtube music ad free in the background', 'start': 2289.359, 'duration': 4.881}
+{'text': 'and also download the videos and music', 'start': 2292.4, 'duration': 4.4}
+{'text': 'to enjoy offline these are just some of', 'start': 2294.24, 'duration': 4.4}
+{'text': 'the many ways that our collaboration', 'start': 2296.8, 'duration': 3.92}
+{'text': 'brings the best creation and viewing', 'start': 2298.64, 'duration': 4.4}
+{'text': 'experience to billions of people across', 'start': 2300.72, 'duration': 4.96}
+{'text': 'the globe we can ask for better partner', 'start': 2303.04, 'duration': 4.88}
+{'text': 'than samsung i look forward to watching', 'start': 2305.68, 'duration': 4.8}
+{'text': 'how we work even more closely to open', 'start': 2307.92, 'duration': 4.56}
+{'text': 'new chapters for mobile video and i', 'start': 2310.48, 'duration': 3.84}
+{'text': "can't wait to see where our partnership", 'start': 2312.48, 'duration': 4.24}
+{'text': 'with samsung takes us next', 'start': 2314.32, 'duration': 4.56}
+{'text': 'thank you again for inviting me today', 'start': 2316.72, 'duration': 5.359}
+{'text': 'and enjoy the rest of unpacked', 'start': 2318.88, 'duration': 5.28}
+{'text': 'the galaxy s 22 ultra brings you the', 'start': 2322.079, 'duration': 3.921}
+{'text': 'most boundary breaking innovations in', 'start': 2324.16, 'duration': 3.36}
+{'text': 'the mobile industry', 'start': 2326.0, 'duration': 4.079}
+{'text': 'with the best galaxy camera an embedded', 'start': 2327.52, 'duration': 5.599}
+{'text': 's-pen a four nanometer processor and our', 'start': 2330.079, 'duration': 5.601}
+{'text': 'brightest display ever it sets a new', 'start': 2333.119, 'duration': 4.881}
+{'text': 'standard for smartphones', 'start': 2335.68, 'duration': 4.8}
+{'text': 'galaxy s 22 ultra will be available for', 'start': 2338.0, 'duration': 7.359}
+{'text': 'pre-order starting today at 1199', 'start': 2340.48, 'duration': 6.96}
+{'text': 'you can get even more color options', 'start': 2345.359, 'duration': 6.041}
+{'text': 'exclusively at samsung.com', 'start': 2347.44, 'duration': 3.96}
+{'text': 'uh', 'start': 2354.0, 'duration': 10.46}
+{'text': '[Music]', 'start': 2355.76, 'duration': 8.7}
+{'text': '[Music]', 'start': 2372.99, 'duration': 3.07}
+{'text': 'stop above the day', 'start': 2377.839, 'duration': 4.121}
+{'text': 'life has changed a lot in the past few', 'start': 2382.0, 'duration': 3.68}
+{'text': 'years and there have been dramatic', 'start': 2384.0, 'duration': 4.079}
+{'text': 'shifts in how we work and play', 'start': 2385.68, 'duration': 5.12}
+{'text': 'we use technology for so much and we all', 'start': 2388.079, 'duration': 5.361}
+{'text': 'use it in our own unique ways to do work', 'start': 2390.8, 'duration': 4.72}
+{'text': 'accomplish daily tasks enjoy', 'start': 2393.44, 'duration': 3.76}
+{'text': 'entertainment and connect with our', 'start': 2395.52, 'duration': 4.24}
+{'text': 'family colleagues and friends', 'start': 2397.2, 'duration': 5.28}
+{'text': "today we're proud to introduce a new", 'start': 2399.76, 'duration': 5.12}
+{'text': 'generation of tablets designed to break', 'start': 2402.48, 'duration': 4.72}
+{'text': 'the rules of work and play', 'start': 2404.88, 'duration': 6.64}
+{'text': 'introducing the galaxy tab s8 series', 'start': 2407.2, 'duration': 7.28}
+{'text': 'when that light hits the sky', 'start': 2411.52, 'duration': 4.8}
+{'text': "it's not just a call", 'start': 2414.48, 'duration': 3.44}
+{'text': '[Music]', 'start': 2416.32, 'duration': 4.999}
+{'text': "it's a warning", 'start': 2417.92, 'duration': 3.399}
+{'text': '[Music]', 'start': 2424.8, 'duration': 3.21}
+{'text': '[Music]', 'start': 2435.35, 'duration': 6.93}
+{'text': "maybe we're not so different after all", 'start': 2437.839, 'duration': 4.441}
+{'text': '[Music]', 'start': 2447.44, 'duration': 9.719}
+{'text': 'hmm', 'start': 2464.8, 'duration': 3.0}
+{'text': "that looks awesome i can't wait to see", 'start': 2468.4, 'duration': 3.679}
+{'text': 'the batman in theaters', 'start': 2470.48, 'duration': 3.52}
+{'text': "we're introducing three new additions to", 'start': 2472.079, 'duration': 5.201}
+{'text': 'the galaxy tab s8 series including a new', 'start': 2474.0, 'duration': 5.44}
+{'text': 'incredible member of our lineup', 'start': 2477.28, 'duration': 3.92}
+{'text': 'we are bringing the power of ultra to', 'start': 2479.44, 'duration': 3.76}
+{'text': 'our tablets for the very first time with', 'start': 2481.2, 'duration': 4.24}
+{'text': 'the galaxy tab s8 ultra', 'start': 2483.2, 'duration': 4.72}
+{'text': 'the tab s8 ultra revolutionized the', 'start': 2485.44, 'duration': 5.679}
+{'text': 'industry as we know it with its 14.6', 'start': 2487.92, 'duration': 6.0}
+{'text': 'inch super amoled display this display', 'start': 2491.119, 'duration': 5.281}
+{'text': 'is clear and bright with up to 120 hertz', 'start': 2493.92, 'duration': 4.56}
+{'text': 'refresh rate which means stunning', 'start': 2496.4, 'duration': 3.679}
+{'text': 'graphics and a smooth scrolling', 'start': 2498.48, 'duration': 3.359}
+{'text': 'experience', 'start': 2500.079, 'duration': 3.441}
+{'text': 'our engineers push the limits of', 'start': 2501.839, 'duration': 3.681}
+{'text': 'innovation to build this powerful and', 'start': 2503.52, 'duration': 4.4}
+{'text': 'expansive display into a slim form', 'start': 2505.52, 'duration': 3.52}
+{'text': 'factor', 'start': 2507.92, 'duration': 3.679}
+{'text': 'they crafted a 6.3 millimeter bezel so', 'start': 2509.04, 'duration': 4.4}
+{'text': 'now you can enjoy the slimmest and', 'start': 2511.599, 'duration': 4.801}
+{'text': 'largest display of any galaxy tab yet', 'start': 2513.44, 'duration': 4.56}
+{'text': "i've been using the galaxy tab s8", 'start': 2516.4, 'duration': 3.6}
+{'text': "ultra's large display to prepare for big", 'start': 2518.0, 'duration': 4.4}
+{'text': 'presentations like this one', 'start': 2520.0, 'duration': 4.72}
+{'text': 'the large display lets me multitask', 'start': 2522.4, 'duration': 5.199}
+{'text': 'without having to toggle between apps', 'start': 2524.72, 'duration': 4.48}
+{'text': 'you can even adjust the size and', 'start': 2527.599, 'duration': 4.081}
+{'text': 'position of your app windows', 'start': 2529.2, 'duration': 4.879}
+{'text': "the galaxy tab s8 ultra's expansive", 'start': 2531.68, 'duration': 4.399}
+{'text': 'display creates an immersive gaming', 'start': 2534.079, 'duration': 4.24}
+{'text': 'experience drawing you into the vivid', 'start': 2536.079, 'duration': 4.401}
+{'text': 'landscapes of other worlds', 'start': 2538.319, 'duration': 4.0}
+{'text': 'and with one of our best video calling', 'start': 2540.48, 'duration': 4.24}
+{'text': 'experiences yet it will help you stay', 'start': 2542.319, 'duration': 3.681}
+{'text': 'connected with your friends and', 'start': 2544.72, 'duration': 2.399}
+{'text': 'colleagues', 'start': 2546.0, 'duration': 2.88}
+{'text': 'the galaxy tab s8 makes it super', 'start': 2547.119, 'duration': 3.761}
+{'text': 'convenient to video chat with dual', 'start': 2548.88, 'duration': 3.68}
+{'text': 'cameras positioned on the long side of', 'start': 2550.88, 'duration': 4.0}
+{'text': 'the tablet i love that i can keep my', 'start': 2552.56, 'duration': 4.0}
+{'text': 'tablet in landscape mode', 'start': 2554.88, 'duration': 3.439}
+{'text': 'last weekend when my friend was visiting', 'start': 2556.56, 'duration': 3.68}
+{'text': 'me she decided to join me on my call', 'start': 2558.319, 'duration': 3.361}
+{'text': 'with my mom', 'start': 2560.24, 'duration': 3.839}
+{'text': 'thanks to the tab s8 ultra wide lens', 'start': 2561.68, 'duration': 4.399}
+{'text': 'combined with innovative auto framing', 'start': 2564.079, 'duration': 4.641}
+{'text': 'both of us were always in the frame', 'start': 2566.079, 'duration': 4.561}
+{'text': 'and the powerful three-way microphone', 'start': 2568.72, 'duration': 4.48}
+{'text': 'with ai technology made sure our voices', 'start': 2570.64, 'duration': 4.56}
+{'text': 'could be heard clearly even with', 'start': 2573.2, 'duration': 4.48}
+{'text': 'background noise', 'start': 2575.2, 'duration': 4.159}
+{'text': 'partnered with google to make your video', 'start': 2577.68, 'duration': 4.8}
+{'text': 'calling experience more collaborative', 'start': 2579.359, 'duration': 4.561}
+{'text': "with google duo's live sharing", 'start': 2582.48, 'duration': 3.28}
+{'text': 'capability you can easily brainstorm', 'start': 2583.92, 'duration': 3.04}
+{'text': 'together', 'start': 2585.76, 'duration': 4.079}
+{'text': 'share ideas and images on samsung notes', 'start': 2586.96, 'duration': 5.04}
+{'text': 'watch videos on youtube or search for', 'start': 2589.839, 'duration': 5.28}
+{'text': 'locations together on google maps', 'start': 2592.0, 'duration': 4.88}
+{'text': "with this video calling experience we're", 'start': 2595.119, 'duration': 3.921}
+{'text': 'empowering you to connect with people no', 'start': 2596.88, 'duration': 5.04}
+{'text': 'matter where they are', 'start': 2599.04, 'duration': 2.88}
+{'text': "and that's just the beginning", 'start': 2602.0, 'duration': 3.92}
+{'text': 'we are working closely with google to', 'start': 2604.0, 'duration': 3.52}
+{'text': 'bring more open experiences to our', 'start': 2605.92, 'duration': 3.84}
+{'text': 'tablets with more updates to come later', 'start': 2607.52, 'duration': 3.44}
+{'text': 'this year', 'start': 2609.76, 'duration': 3.44}
+{'text': 'the tab s8 series brings the digital and', 'start': 2610.96, 'duration': 4.879}
+{'text': 'analog experiences together with the s', 'start': 2613.2, 'duration': 3.919}
+{'text': 'pen', 'start': 2615.839, 'duration': 4.0}
+{'text': 'compared to the galaxy tab s7 series we', 'start': 2617.119, 'duration': 4.72}
+{'text': 'reduced s pen latency by more than', 'start': 2619.839, 'duration': 3.441}
+{'text': 'thirty percent', 'start': 2621.839, 'duration': 3.441}
+{'text': 'combined with the display with up to', 'start': 2623.28, 'duration': 5.039}
+{'text': '120hz refresh rate your s pen will glide', 'start': 2625.28, 'duration': 5.68}
+{'text': 'smoothly as your ideas flow', 'start': 2628.319, 'duration': 4.721}
+{'text': 'since its launch samsung notes has been', 'start': 2630.96, 'duration': 4.879}
+{'text': 'the original companion of the s pen', 'start': 2633.04, 'duration': 4.64}
+{'text': 'for over a decade this app has', 'start': 2635.839, 'duration': 3.841}
+{'text': 'continuously evolved to address the', 'start': 2637.68, 'duration': 4.56}
+{'text': 'needs of our users and is now integrated', 'start': 2639.68, 'duration': 4.32}
+{'text': 'with microsoft onenote', 'start': 2642.24, 'duration': 4.24}
+{'text': 'powerpoint and outlook', 'start': 2644.0, 'duration': 4.64}
+{'text': 'samsung notes is one of our most beloved', 'start': 2646.48, 'duration': 4.16}
+{'text': 'native apps with over one billion', 'start': 2648.64, 'duration': 4.16}
+{'text': 'downloads on google play', 'start': 2650.64, 'duration': 3.76}
+{'text': 'fans have told us about their favorite', 'start': 2652.8, 'duration': 3.76}
+{'text': 'samsung notes experiences including', 'start': 2654.4, 'duration': 4.4}
+{'text': "features that aren't so well known", 'start': 2656.56, 'duration': 4.08}
+{'text': "so today we're excited to share some of", 'start': 2658.8, 'duration': 5.039}
+{'text': 'those with you', 'start': 2660.64, 'duration': 3.199}
+{'text': 'what do you do when inspiration strikes', 'start': 2664.319, 'duration': 7.201}
+{'text': 'we write draw dream and imagine in our', 'start': 2667.52, 'duration': 5.599}
+{'text': 'notes', 'start': 2671.52, 'duration': 3.599}
+{'text': 'from the original s note to the samsung', 'start': 2673.119, 'duration': 4.321}
+{'text': "notes you know today we've enhanced our", 'start': 2675.119, 'duration': 4.48}
+{'text': 'app with every new generation', 'start': 2677.44, 'duration': 3.84}
+{'text': 'improving everything from writing and', 'start': 2679.599, 'duration': 4.641}
+{'text': 'coloring and s pen to text to screen off', 'start': 2681.28, 'duration': 4.0}
+{'text': 'memos', 'start': 2684.24, 'duration': 2.879}
+{'text': 'and this year we took your most recent', 'start': 2685.28, 'duration': 3.68}
+{'text': 'feedback to introduce updates that', 'start': 2687.119, 'duration': 4.321}
+{'text': 'better meet your needs', 'start': 2688.96, 'duration': 5.119}
+{'text': 'display two pages side by side annotate', 'start': 2691.44, 'duration': 5.28}
+{'text': 'image files and sync notes faster across', 'start': 2694.079, 'duration': 5.201}
+{'text': 'devices', 'start': 2696.72, 'duration': 2.56}
+{'text': 'inspired by something you see online', 'start': 2703.44, 'duration': 4.32}
+{'text': 'just grab the site and add it directly', 'start': 2705.52, 'duration': 4.65}
+{'text': 'to your samsung notes', 'start': 2707.76, 'duration': 5.5}
+{'text': '[Music]', 'start': 2710.17, 'duration': 3.09}
+{'text': 'no need to capture and scroll over and', 'start': 2714.48, 'duration': 5.119}
+{'text': 'over now you can just scrapbook the', 'start': 2716.8, 'duration': 7.6}
+{'text': 'entire site or simply pull in the link', 'start': 2719.599, 'duration': 4.801}
+{'text': 'expand your creativity by using the', 'start': 2725.52, 'duration': 4.24}
+{'text': 'expansive display of your galaxy tab as', 'start': 2727.52, 'duration': 4.799}
+{'text': 'your canvas and your galaxy smartphone', 'start': 2729.76, 'duration': 3.92}
+{'text': 'as a pallet', 'start': 2732.319, 'duration': 3.52}
+{'text': 'this seamless interaction between galaxy', 'start': 2733.68, 'duration': 4.88}
+{'text': 'devices helps bring an analog feeling to', 'start': 2735.839, 'duration': 5.481}
+{'text': 'your digital experience', 'start': 2738.56, 'duration': 5.819}
+{'text': '[Music]', 'start': 2741.32, 'duration': 3.059}
+{'text': '[Applause]', 'start': 2747.44, 'duration': 4.0}
+{'text': '[Music]', 'start': 2748.84, 'duration': 4.12}
+{'text': "and when you're working on a virtual", 'start': 2751.44, 'duration': 2.72}
+{'text': 'group project', 'start': 2752.96, 'duration': 2.879}
+{'text': 'easily swap notes for convenient', 'start': 2754.16, 'duration': 5.8}
+{'text': 'collaboration with one another', 'start': 2755.839, 'duration': 4.121}
+{'text': "it's that swift and simple", 'start': 2762.319, 'duration': 3.441}
+{'text': 'unleash your inner artist and let your', 'start': 2767.119, 'duration': 4.321}
+{'text': 'imagination flow onto the screen', 'start': 2768.88, 'duration': 4.8}
+{'text': 'samsung notes can be your ultimate', 'start': 2771.44, 'duration': 5.2}
+{'text': 'creative outlet', 'start': 2773.68, 'duration': 2.96}
+{'text': 'samsung notes is made for you so you can', 'start': 2783.2, 'duration': 7.919}
+{'text': 'probably say my notes my way', 'start': 2786.319, 'duration': 4.8}
+{'text': "you've just seen the amazing experiences", 'start': 2792.64, 'duration': 3.84}
+{'text': 'that the s pen and samsung notes bring', 'start': 2794.4, 'duration': 3.12}
+{'text': 'to life', 'start': 2796.48, 'duration': 3.28}
+{'text': "whether you're working playing or", 'start': 2797.52, 'duration': 3.28}
+{'text': 'creating', 'start': 2799.76, 'duration': 2.8}
+{'text': 'our open ecosystem of devices and', 'start': 2800.8, 'duration': 3.76}
+{'text': 'partnerships elevates what a premium', 'start': 2802.56, 'duration': 4.24}
+{'text': 'tablet experience can deliver', 'start': 2804.56, 'duration': 4.64}
+{'text': 'for artists illustrators and designers', 'start': 2806.8, 'duration': 4.319}
+{'text': 'we are leveling up our partnership with', 'start': 2809.2, 'duration': 4.08}
+{'text': 'clip studio paint to elevate your', 'start': 2811.119, 'duration': 4.48}
+{'text': 'creative work using the s pen', 'start': 2813.28, 'duration': 4.48}
+{'text': 'your tablet is your canvas and your', 'start': 2815.599, 'duration': 4.641}
+{'text': 's-pen is your paintbrush', 'start': 2817.76, 'duration': 4.24}
+{'text': 'now you can use your smartphone as a', 'start': 2820.24, 'duration': 2.879}
+{'text': 'palette', 'start': 2822.0, 'duration': 2.72}
+{'text': "and we're excited to announce that we", 'start': 2823.119, 'duration': 4.24}
+{'text': 'collaborated with luma touch to optimize', 'start': 2824.72, 'duration': 4.8}
+{'text': 'lumafusion for samsung devices for the', 'start': 2827.359, 'duration': 4.48}
+{'text': 'very first time', 'start': 2829.52, 'duration': 4.72}
+{'text': 'this popular top ranked tool provides a', 'start': 2831.839, 'duration': 4.561}
+{'text': 'desktop-like professional video editing', 'start': 2834.24, 'duration': 4.8}
+{'text': 'experience', 'start': 2836.4, 'duration': 2.64}
+{'text': 'the galaxy tab s8 series is equipped to', 'start': 2839.119, 'duration': 5.281}
+{'text': 'record in 4k video with both the front', 'start': 2841.44, 'duration': 4.72}
+{'text': 'and rear cameras', 'start': 2844.4, 'duration': 3.439}
+{'text': 'so everything you film will come out in', 'start': 2846.16, 'duration': 3.919}
+{'text': 'stunning detail and definition', 'start': 2847.839, 'duration': 4.48}
+{'text': 'you can even use a tab s8 to edit right', 'start': 2850.079, 'duration': 4.881}
+{'text': 'away or think video is captured on your', 'start': 2852.319, 'duration': 5.361}
+{'text': 'galaxy smartphone to your tab sa series', 'start': 2854.96, 'duration': 5.44}
+{'text': 'using onedrive and then edit them using', 'start': 2857.68, 'duration': 3.58}
+{'text': 'lumafusion', 'start': 2860.4, 'duration': 2.4}
+{'text': '[Music]', 'start': 2861.26, 'duration': 3.78}
+{'text': "personally i'm a big multitasker and", 'start': 2862.8, 'duration': 4.64}
+{'text': "that's why i love how my tab s8 allows", 'start': 2865.04, 'duration': 5.92}
+{'text': 'for a truly two-in-one experience', 'start': 2867.44, 'duration': 5.44}
+{'text': 'from the moment i attach my book cover', 'start': 2870.96, 'duration': 5.119}
+{'text': 'keyboard samsung dex unlocks so much', 'start': 2872.88, 'duration': 4.8}
+{'text': 'potential', 'start': 2876.079, 'duration': 4.081}
+{'text': 'fully transforming my tablet into a pc', 'start': 2877.68, 'duration': 4.08}
+{'text': 'like experience', 'start': 2880.16, 'duration': 3.04}
+{'text': 'and that keyboard is not only super', 'start': 2881.76, 'duration': 3.92}
+{'text': 'convenient but protective', 'start': 2883.2, 'duration': 4.159}
+{'text': 'acting as a book cover to shield my', 'start': 2885.68, 'duration': 4.48}
+{'text': 'tablet from damage', 'start': 2887.359, 'duration': 5.121}
+{'text': 'the galaxy tab s8 series also works', 'start': 2890.16, 'duration': 4.56}
+{'text': 'seamlessly with windows pcs', 'start': 2892.48, 'duration': 4.079}
+{'text': "it's easy to connect with my laptop and", 'start': 2894.72, 'duration': 3.44}
+{'text': 'uses a wireless monitor with a', 'start': 2896.559, 'duration': 4.081}
+{'text': 'touchscreen capability of a tablet', 'start': 2898.16, 'duration': 4.399}
+{'text': 'the galaxy tab s8 series is more than', 'start': 2900.64, 'duration': 3.28}
+{'text': 'just a tablet', 'start': 2902.559, 'duration': 4.0}
+{'text': "it's an ideavault canvas for creativity", 'start': 2903.92, 'duration': 4.72}
+{'text': 'a video editing studio and a', 'start': 2906.559, 'duration': 4.56}
+{'text': 'productivity machine', 'start': 2908.64, 'duration': 3.76}
+{'text': 'all of this', 'start': 2911.119, 'duration': 2.72}
+{'text': 'is supported by our most powerful', 'start': 2912.4, 'duration': 3.439}
+{'text': 'chipset in a galaxy tab', 'start': 2913.839, 'duration': 4.561}
+{'text': 'it has a four nanometer processor the', 'start': 2915.839, 'duration': 5.041}
+{'text': "first we've ever put in a tablet", 'start': 2918.4, 'duration': 5.36}
+{'text': 'and with up to 16 gigs of ram the tab s8', 'start': 2920.88, 'duration': 4.719}
+{'text': 'ultra will stay responsive and ultra', 'start': 2923.76, 'duration': 2.88}
+{'text': 'fast', 'start': 2925.599, 'duration': 3.201}
+{'text': 'the galaxy tab s8 series comes with', 'start': 2926.64, 'duration': 4.32}
+{'text': 'expandable storage which means you can', 'start': 2928.8, 'duration': 5.519}
+{'text': 'increase storage by up to one terabyte', 'start': 2930.96, 'duration': 5.119}
+{'text': "it's hard to believe a tablet can be", 'start': 2934.319, 'duration': 4.881}
+{'text': 'this powerful but the tab s8 ultra is', 'start': 2936.079, 'duration': 5.041}
+{'text': 'see for yourself', 'start': 2939.2, 'duration': 9.2}
+{'text': '[Music]', 'start': 2941.12, 'duration': 10.28}
+{'text': 'so', 'start': 2948.4, 'duration': 3.0}
+{'text': '[Music]', 'start': 2955.26, 'duration': 3.079}
+{'text': '[Music]', 'start': 2962.03, 'duration': 9.73}
+{'text': 'galaxy tab s8 series helps you make the', 'start': 2969.68, 'duration': 4.8}
+{'text': 'most of work play and everything in', 'start': 2971.76, 'duration': 3.92}
+{'text': 'between', 'start': 2974.48, 'duration': 3.119}
+{'text': 'with our most powerful performance yet', 'start': 2975.68, 'duration': 4.08}
+{'text': 'and our most expansive tablet display', 'start': 2977.599, 'duration': 2.96}
+{'text': 'ever', 'start': 2979.76, 'duration': 2.319}
+{'text': 'this series will bring your biggest', 'start': 2980.559, 'duration': 3.601}
+{'text': 'ideas to life', 'start': 2982.079, 'duration': 3.921}
+{'text': 'galaxy tab s8 ultra will be available', 'start': 2984.16, 'duration': 4.24}
+{'text': 'for one thousand ninety nine dollars', 'start': 2986.0, 'duration': 4.4}
+{'text': 'tab s8 plus for eight hundred ninety', 'start': 2988.4, 'duration': 3.439}
+{'text': 'nine dollars', 'start': 2990.4, 'duration': 3.6}
+{'text': 'and tab s8 for six hundred ninety nine', 'start': 2991.839, 'duration': 3.121}
+{'text': 'dollars', 'start': 2994.0, 'duration': 3.52}
+{'text': 'pre-orders start today', 'start': 2994.96, 'duration': 4.48}
+{'text': "and if you pre-order you'll be able to", 'start': 2997.52, 'duration': 5.28}
+{'text': 'experience the book cover keyboard on us', 'start': 2999.44, 'duration': 6.08}
+{'text': "if you upgrade to a new tab s8 you'll be", 'start': 3002.8, 'duration': 4.48}
+{'text': 'able to easily transfer your content', 'start': 3005.52, 'duration': 3.76}
+{'text': "using smart switch whether you're moving", 'start': 3007.28, 'duration': 3.92}
+{'text': 'from another android tablet or even a', 'start': 3009.28, 'duration': 3.76}
+{'text': 'different platform', 'start': 3011.2, 'duration': 3.6}
+{'text': 'this is what we mean by an open', 'start': 3013.04, 'duration': 3.039}
+{'text': 'ecosystem', 'start': 3014.8, 'duration': 3.519}
+{'text': "here's zak to tell you more", 'start': 3016.079, 'duration': 4.401}
+{'text': 'thank you danielle from our galaxy', 'start': 3018.319, 'duration': 4.8}
+{'text': 'smartphones to tablets to wearables the', 'start': 3020.48, 'duration': 5.2}
+{'text': 'galaxy ecosystem is customizable', 'start': 3023.119, 'duration': 5.44}
+{'text': 'adaptive and designed with you in mind', 'start': 3025.68, 'duration': 5.04}
+{'text': 'at samsung we are committed to', 'start': 3028.559, 'duration': 4.881}
+{'text': 'delivering more open experiences across', 'start': 3030.72, 'duration': 4.8}
+{'text': 'the galaxy ecosystem to take your', 'start': 3033.44, 'duration': 4.0}
+{'text': 'favorite products and services to the', 'start': 3035.52, 'duration': 3.52}
+{'text': 'next level', 'start': 3037.44, 'duration': 3.679}
+{'text': "that's why we partnered with google to", 'start': 3039.04, 'duration': 4.4}
+{'text': 'enrich our wearables experience bringing', 'start': 3041.119, 'duration': 6.161}
+{'text': 'galaxy watch 4 to the wear os platform', 'start': 3043.44, 'duration': 6.08}
+{'text': 'together we collaborated to optimize', 'start': 3047.28, 'duration': 4.319}
+{'text': 'performance and to provide seamless', 'start': 3049.52, 'duration': 4.24}
+{'text': 'access to apps on google play including', 'start': 3051.599, 'duration': 3.921}
+{'text': 'youtube music', 'start': 3053.76, 'duration': 4.079}
+{'text': 'you can download songs and even stream', 'start': 3055.52, 'duration': 4.48}
+{'text': 'youtube music straight from your galaxy', 'start': 3057.839, 'duration': 3.28}
+{'text': 'watch 4.', 'start': 3060.0, 'duration': 2.559}
+{'text': "that means you don't have to stop to", 'start': 3061.119, 'duration': 2.72}
+{'text': "pull out your phone when you're in the", 'start': 3062.559, 'duration': 3.601}
+{'text': 'zone or you can even leave your phone', 'start': 3063.839, 'duration': 5.361}
+{'text': 'behind if you have the watch 4 lte model', 'start': 3066.16, 'duration': 4.959}
+{'text': 'and we are excited to announce that you', 'start': 3069.2, 'duration': 3.44}
+{'text': 'will soon be able to use google', 'start': 3071.119, 'duration': 3.601}
+{'text': 'assistant right from your galaxy watch', 'start': 3072.64, 'duration': 3.76}
+{'text': '4.', 'start': 3074.72, 'duration': 3.839}
+{'text': "we've also optimized the watch phone", 'start': 3076.4, 'duration': 3.76}
+{'text': 'pairing experience', 'start': 3078.559, 'duration': 3.52}
+{'text': "before you'd have to search your watch", 'start': 3080.16, 'duration': 3.52}
+{'text': 'apps one by one to sync them with your', 'start': 3082.079, 'duration': 2.641}
+{'text': 'phone', 'start': 3083.68, 'duration': 3.36}
+{'text': 'now apps on your galaxy smartphone are', 'start': 3084.72, 'duration': 3.92}
+{'text': 'installed in your galaxy watch 4 with', 'start': 3087.04, 'duration': 3.2}
+{'text': 'just one tap', 'start': 3088.64, 'duration': 4.0}
+{'text': 'the galaxy watch 4 series is known for', 'start': 3090.24, 'duration': 4.16}
+{'text': 'its advanced health experiences that', 'start': 3092.64, 'duration': 4.4}
+{'text': 'empower you to become your best self and', 'start': 3094.4, 'duration': 5.439}
+{'text': "today we're elevating them even further", 'start': 3097.04, 'duration': 4.96}
+{'text': 'your galaxy watch 4 now brings you tools', 'start': 3099.839, 'duration': 3.681}
+{'text': 'that enhance your running and biking', 'start': 3102.0, 'duration': 2.8}
+{'text': 'experiences', 'start': 3103.52, 'duration': 3.68}
+{'text': 'we collaborated with top ranked apps', 'start': 3104.8, 'duration': 5.2}
+{'text': 'like adidas running and strava to update', 'start': 3107.2, 'duration': 4.72}
+{'text': 'the galaxy watch for experience with', 'start': 3110.0, 'duration': 4.559}
+{'text': 'more enhanced user interfaces to help', 'start': 3111.92, 'duration': 6.159}
+{'text': 'you power through your exercise', 'start': 3114.559, 'duration': 5.681}
+{'text': "many of us know that when you're cycling", 'start': 3118.079, 'duration': 3.601}
+{'text': 'it can be hard to look down at your', 'start': 3120.24, 'duration': 2.319}
+{'text': 'watch', 'start': 3121.68, 'duration': 2.72}
+{'text': 'with watch mobile interworking for', 'start': 3122.559, 'duration': 4.321}
+{'text': 'cycling samsung health captures and', 'start': 3124.4, 'duration': 4.4}
+{'text': 'shows your watch for data like your', 'start': 3126.88, 'duration': 4.239}
+{'text': 'heart rate or calories burned on your', 'start': 3128.8, 'duration': 5.68}
+{'text': "phone's larger screen in real time", 'start': 3131.119, 'duration': 5.281}
+{'text': "and when it's time to rest", 'start': 3134.48, 'duration': 4.56}
+{'text': 'the galaxy watch 4 can provide daily', 'start': 3136.4, 'duration': 5.12}
+{'text': 'goals and coaching programs to help you', 'start': 3139.04, 'duration': 4.96}
+{'text': 'achieve a healthy sleeping habit by', 'start': 3141.52, 'duration': 4.559}
+{'text': 'analyzing survey results you can set', 'start': 3144.0, 'duration': 4.0}
+{'text': 'your sleep style with samsung health and', 'start': 3146.079, 'duration': 4.401}
+{'text': 'get personalized recommendations', 'start': 3148.0, 'duration': 5.44}
+{'text': 'i wear my galaxy watch 4 all the time so', 'start': 3150.48, 'duration': 5.2}
+{'text': "it's important that it fits my style and", 'start': 3153.44, 'duration': 3.6}
+{'text': 'mood of the day', 'start': 3155.68, 'duration': 3.84}
+{'text': 'galaxy watch 4 is our most customizable', 'start': 3157.04, 'duration': 4.319}
+{'text': 'smart watch yet', 'start': 3159.52, 'duration': 4.48}
+{'text': "and now you're introducing new colors", 'start': 3161.359, 'duration': 4.561}
+{'text': 'and patterns to our watch faces and', 'start': 3164.0, 'duration': 3.2}
+{'text': 'straps', 'start': 3165.92, 'duration': 3.52}
+{'text': 'you can mix and match so you can', 'start': 3167.2, 'duration': 5.52}
+{'text': 'coordinate your look your way', 'start': 3169.44, 'duration': 5.44}
+{'text': 'for more customization options to', 'start': 3172.72, 'duration': 4.32}
+{'text': 'enhance your self-expression two', 'start': 3174.88, 'duration': 4.16}
+{'text': 'advanced features to put you in control', 'start': 3177.04, 'duration': 4.319}
+{'text': "of your health we're so excited for", 'start': 3179.04, 'duration': 5.36}
+{'text': 'these new updates to the galaxy watch 4.', 'start': 3181.359, 'duration': 5.441}
+{'text': 'these updates are available today and we', 'start': 3184.4, 'duration': 4.0}
+{'text': "can't wait to see what you do with these", 'start': 3186.8, 'duration': 4.0}
+{'text': 'powerful new capabilities', 'start': 3188.4, 'duration': 4.8}
+{'text': 'we are also excited to introduce another', 'start': 3190.8, 'duration': 4.319}
+{'text': 'enhanced experience that will expand', 'start': 3193.2, 'duration': 4.879}
+{'text': 'your galaxy ecosystem', 'start': 3195.119, 'duration': 4.881}
+{'text': 'our all new samsung wallet will carry', 'start': 3198.079, 'duration': 4.401}
+{'text': 'your digital valuables in one convenient', 'start': 3200.0, 'duration': 4.0}
+{'text': 'secure place', 'start': 3202.48, 'duration': 3.359}
+{'text': 'you will be able to store your ids', 'start': 3204.0, 'duration': 4.8}
+{'text': 'credit cards passwords keys and even', 'start': 3205.839, 'duration': 4.881}
+{'text': 'your boarding passes', 'start': 3208.8, 'duration': 4.319}
+{'text': 'so you not only have to carry less but', 'start': 3210.72, 'duration': 4.56}
+{'text': 'you can access them anywhere', 'start': 3213.119, 'duration': 4.401}
+{'text': 'samsung wallet will also let you access', 'start': 3215.28, 'duration': 4.4}
+{'text': 'and explore complex digital products', 'start': 3217.52, 'duration': 5.2}
+{'text': 'like cryptocurrency with more ease too', 'start': 3219.68, 'duration': 5.12}
+{'text': "but it's not all about convenience", 'start': 3222.72, 'duration': 4.16}
+{'text': 'samsung wallet has different levels and', 'start': 3224.8, 'duration': 4.08}
+{'text': 'layers of security to protect your', 'start': 3226.88, 'duration': 4.0}
+{'text': 'information combining our software', 'start': 3228.88, 'duration': 3.92}
+{'text': 'solutions with our end-to-end hardware', 'start': 3230.88, 'duration': 4.08}
+{'text': 'solution samsung knox', 'start': 3232.8, 'duration': 4.24}
+{'text': 'samsung wallet will provide convenience', 'start': 3234.96, 'duration': 5.04}
+{'text': 'and security and all of this is just the', 'start': 3237.04, 'duration': 4.0}
+{'text': 'beginning', 'start': 3240.0, 'duration': 2.96}
+{'text': 'we will continue to collaborate with our', 'start': 3241.04, 'duration': 4.48}
+{'text': 'partners to enhance and expand samsung', 'start': 3242.96, 'duration': 3.52}
+{'text': 'wallet', 'start': 3245.52, 'duration': 2.72}
+{'text': 'everything we introduced today is part', 'start': 3246.48, 'duration': 4.639}
+{'text': 'of the galaxy experience also known as', 'start': 3248.24, 'duration': 6.0}
+{'text': "one ui and with one ui4 we've made", 'start': 3251.119, 'duration': 5.041}
+{'text': 'incredible improvements that will help', 'start': 3254.24, 'duration': 4.319}
+{'text': 'you interact with your technology', 'start': 3256.16, 'duration': 5.199}
+{'text': "let's take a look", 'start': 3258.559, 'duration': 5.04}
+{'text': 'the galaxy experience is designed for', 'start': 3261.359, 'duration': 6.561}
+{'text': 'you to be personalized by you', 'start': 3263.599, 'duration': 4.321}
+{'text': 'one ui is now more intuitive secure and', 'start': 3268.0, 'duration': 6.4}
+{'text': 'easier to use with more effortless ways', 'start': 3271.76, 'duration': 5.039}
+{'text': 'to customize your experience the way you', 'start': 3274.4, 'duration': 3.46}
+{'text': 'want', 'start': 3276.799, 'duration': 2.241}
+{'text': '[Music]', 'start': 3277.86, 'duration': 3.34}
+{'text': 'the camera experience is amazing on the', 'start': 3279.04, 'duration': 4.0}
+{'text': 'galaxy s22', 'start': 3281.2, 'duration': 4.8}
+{'text': 'with one ui4 you can easily capture your', 'start': 3283.04, 'duration': 5.2}
+{'text': 'one-of-a-kind artistic vision', 'start': 3286.0, 'duration': 4.64}
+{'text': 'just look at these photos', 'start': 3288.24, 'duration': 5.04}
+{'text': 'check out the intuitive user experience', 'start': 3290.64, 'duration': 5.36}
+{'text': 'go from photo to video to continuous', 'start': 3293.28, 'duration': 4.24}
+{'text': 'video', 'start': 3296.0, 'duration': 3.839}
+{'text': 'get creative with night shots', 'start': 3297.52, 'duration': 4.88}
+{'text': 'like this amazing light trail', 'start': 3299.839, 'duration': 4.72}
+{'text': 'and pro mode now works with each and', 'start': 3302.4, 'duration': 5.6}
+{'text': 'every lens okay', 'start': 3304.559, 'duration': 3.441}
+{'text': 'wow schedule looks super packed this', 'start': 3309.44, 'duration': 3.44}
+{'text': 'week', 'start': 3312.079, 'duration': 2.881}
+{'text': 'thinking about manually adding all these', 'start': 3312.88, 'duration': 5.12}
+{'text': 'events to your calendar no need one ui', 'start': 3314.96, 'duration': 5.359}
+{'text': 'can pick out the important info and add', 'start': 3318.0, 'duration': 6.079}
+{'text': 'it to your calendar like this', 'start': 3320.319, 'duration': 3.76}
+{'text': 'the app you were just using on your s22', 'start': 3325.839, 'duration': 4.48}
+{'text': 'pick up where you left off on your', 'start': 3328.88, 'duration': 3.04}
+{'text': 'windows pc', 'start': 3330.319, 'duration': 4.161}
+{'text': 'now that seamless experience is cross', 'start': 3331.92, 'duration': 4.32}
+{'text': 'platform', 'start': 3334.48, 'duration': 4.72}
+{'text': 'one ui is now on galaxy tab 2. have you', 'start': 3336.24, 'duration': 5.839}
+{'text': 'seen it yet take a look literally one', 'start': 3339.2, 'duration': 5.52}
+{'text': "look everything you're working on all on", 'start': 3342.079, 'duration': 5.04}
+{'text': 'one immersive screen', 'start': 3344.72, 'duration': 4.32}
+{'text': 'whether you prefer to draw with the s', 'start': 3347.119, 'duration': 5.041}
+{'text': 'pen or type on the book cover keyboard', 'start': 3349.04, 'duration': 6.16}
+{'text': 'your work will flow smoothly', 'start': 3352.16, 'duration': 5.52}
+{'text': 'and with keyboard shortcuts emojis are', 'start': 3355.2, 'duration': 5.52}
+{'text': 'right at your fingertips', 'start': 3357.68, 'duration': 5.2}
+{'text': 'like this', 'start': 3360.72, 'duration': 4.32}
+{'text': "there's a whole wide world to explore", 'start': 3362.88, 'duration': 3.76}
+{'text': 'with galaxy', 'start': 3365.04, 'duration': 3.68}
+{'text': "whatever you're looking for you'll find", 'start': 3366.64, 'duration': 5.76}
+{'text': 'it with the new and upgraded one ui4', 'start': 3368.72, 'duration': 4.8}
+{'text': 'after all', 'start': 3372.4, 'duration': 2.719}
+{'text': "it's your galaxy", 'start': 3373.52, 'duration': 4.319}
+{'text': 'your way', 'start': 3375.119, 'duration': 2.72}
+{'text': 'an open ecosystem of products services', 'start': 3382.799, 'duration': 6.481}
+{'text': 'and industry-leading partnerships', 'start': 3386.72, 'duration': 3.839}
+{'text': 'working together', 'start': 3389.28, 'duration': 4.0}
+{'text': 'to empower you and let you choose what', 'start': 3390.559, 'duration': 4.641}
+{'text': 'works best for you', 'start': 3393.28, 'duration': 2.88}
+{'text': "that's", 'start': 3395.2, 'duration': 3.599}
+{'text': 'the galaxy experience', 'start': 3396.16, 'duration': 4.959}
+{'text': 'contrary to common misperception', 'start': 3398.799, 'duration': 5.76}
+{'text': 'openness and security can coexist we', 'start': 3401.119, 'duration': 5.521}
+{'text': 'give you the freedom to explore and', 'start': 3404.559, 'duration': 4.721}
+{'text': 'tailor your own experience with total', 'start': 3406.64, 'duration': 3.919}
+{'text': 'peace of mind', 'start': 3409.28, 'duration': 3.839}
+{'text': "knowing you'll always be protected by", 'start': 3410.559, 'duration': 4.641}
+{'text': "the world's most trusted security", 'start': 3413.119, 'duration': 3.361}
+{'text': 'platforms', 'start': 3415.2, 'duration': 4.48}
+{'text': 'our top priority is and has always been', 'start': 3416.48, 'duration': 5.92}
+{'text': 'to protect you and your privacy', 'start': 3419.68, 'duration': 5.04}
+{'text': 'because we know you want full control', 'start': 3422.4, 'duration': 4.719}
+{'text': 'over your personal data and expect', 'start': 3424.72, 'duration': 4.16}
+{'text': 'trusted safeguards to protect your', 'start': 3427.119, 'duration': 3.921}
+{'text': 'mobile experiences', 'start': 3428.88, 'duration': 4.479}
+{'text': 'we take this responsibility very', 'start': 3431.04, 'duration': 3.68}
+{'text': 'seriously', 'start': 3433.359, 'duration': 2.801}
+{'text': 'we stand by', 'start': 3434.72, 'duration': 3.52}
+{'text': 'three core principles', 'start': 3436.16, 'duration': 3.679}
+{'text': 'when it comes to your privacy and', 'start': 3438.24, 'duration': 2.96}
+{'text': 'security', 'start': 3439.839, 'duration': 5.601}
+{'text': 'protection transparency and choice', 'start': 3441.2, 'duration': 6.159}
+{'text': "we're committed to keeping your data", 'start': 3445.44, 'duration': 2.8}
+{'text': 'safe', 'start': 3447.359, 'duration': 2.401}
+{'text': 'at all times', 'start': 3448.24, 'duration': 3.92}
+{'text': "we're constantly adding extra layers of", 'start': 3449.76, 'duration': 5.68}
+{'text': 'protection to ensure your data is always', 'start': 3452.16, 'duration': 4.56}
+{'text': 'safe', 'start': 3455.44, 'duration': 3.04}
+{'text': "we will respect what you're willing to", 'start': 3456.72, 'duration': 5.839}
+{'text': 'share or not and follow your lead', 'start': 3458.48, 'duration': 6.96}
+{'text': 'our opt-out tracking on key apps gives', 'start': 3462.559, 'duration': 5.201}
+{'text': 'you the choice to surf online without', 'start': 3465.44, 'duration': 4.159}
+{'text': 'being traced', 'start': 3467.76, 'duration': 3.92}
+{'text': 'we live up to these principles and we', 'start': 3469.599, 'duration': 4.641}
+{'text': 'will never waver on a promise because', 'start': 3471.68, 'duration': 5.28}
+{'text': 'your trust means everything to us', 'start': 3474.24, 'duration': 5.04}
+{'text': 'we want you to be able to enjoy exciting', 'start': 3476.96, 'duration': 4.08}
+{'text': 'new mobile experiences', 'start': 3479.28, 'duration': 2.72}
+{'text': 'knowing', 'start': 3481.04, 'duration': 4.079}
+{'text': 'we always have your back', 'start': 3482.0, 'duration': 3.119}
+{'text': 'so much of my life is on my phone', 'start': 3486.319, 'duration': 5.681}
+{'text': 'and protecting my privacy is essential', 'start': 3488.559, 'duration': 5.201}
+{'text': 'now the privacy dashboard shows at a', 'start': 3492.0, 'duration': 6.16}
+{'text': 'glance which apps are accessing my data', 'start': 3493.76, 'duration': 8.599}
+{'text': "so i'm in control", 'start': 3498.16, 'duration': 4.199}
+{'text': 'i can hide my exact location from a', 'start': 3503.119, 'duration': 4.881}
+{'text': 'weather app', 'start': 3505.44, 'duration': 2.56}
+{'text': 'or share it with a ride sharing app', 'start': 3509.68, 'duration': 6.12}
+{'text': 'but only when i need a car', 'start': 3512.64, 'duration': 5.439}
+{'text': '[Music]', 'start': 3515.8, 'duration': 3.799}
+{'text': 'perfect timing', 'start': 3518.079, 'duration': 3.681}
+{'text': 'i can see which apps are using my camera', 'start': 3519.599, 'duration': 3.271}
+{'text': 'and microphone', 'start': 3521.76, 'duration': 4.079}
+{'text': '[Music]', 'start': 3522.87, 'duration': 7.489}
+{'text': "who's having my mic this time", 'start': 3525.839, 'duration': 4.52}
+{'text': 'sorry guys', 'start': 3532.48, 'duration': 3.119}
+{'text': 'i have the power to choose who can', 'start': 3534.079, 'duration': 3.441}
+{'text': 'access my personal data', 'start': 3535.599, 'duration': 3.361}
+{'text': 'and as always', 'start': 3537.52, 'duration': 4.88}
+{'text': 'nox security protects the rest', 'start': 3538.96, 'duration': 6.159}
+{'text': 'your privacy secured', 'start': 3542.4, 'duration': 5.52}
+{'text': 'our relentless pursuit of innovation our', 'start': 3545.119, 'duration': 6.0}
+{'text': 'global scale and our open collaborations', 'start': 3547.92, 'duration': 5.84}
+{'text': "enable samsung to improve people's lives", 'start': 3551.119, 'duration': 6.081}
+{'text': 'today and for future generations', 'start': 3553.76, 'duration': 5.839}
+{'text': 'last august we took an important step in', 'start': 3557.2, 'duration': 4.48}
+{'text': 'our journey by announcing', 'start': 3559.599, 'duration': 5.041}
+{'text': 'galaxy for the planet our road map to', 'start': 3561.68, 'duration': 5.6}
+{'text': 'minimizing our environmental impact in', 'start': 3564.64, 'duration': 4.159}
+{'text': 'everything we do', 'start': 3567.28, 'duration': 3.76}
+{'text': 'part of delivering on this commitment is', 'start': 3568.799, 'duration': 4.961}
+{'text': 'to rethink the product life cycle to', 'start': 3571.04, 'duration': 4.559}
+{'text': 'find more sustainable ways to use', 'start': 3573.76, 'duration': 3.92}
+{'text': 'technology', 'start': 3575.599, 'duration': 4.881}
+{'text': 'ways that foster a circular economy that', 'start': 3577.68, 'duration': 4.72}
+{'text': 'we continuously', 'start': 3580.48, 'duration': 5.839}
+{'text': "reuse and recycle our planet's precious", 'start': 3582.4, 'duration': 6.32}
+{'text': 'materials', 'start': 3586.319, 'duration': 3.441}
+{'text': 'today', 'start': 3588.72, 'duration': 3.119}
+{'text': "i'm proud to share what we're bringing", 'start': 3589.76, 'duration': 5.839}
+{'text': 'you with the galaxy s 22 series', 'start': 3591.839, 'duration': 5.681}
+{'text': 'one of the biggest environmental threats', 'start': 3595.599, 'duration': 3.361}
+{'text': 'to our planet', 'start': 3597.52, 'duration': 4.72}
+{'text': 'is plastic pollution in our oceans', 'start': 3598.96, 'duration': 4.48}
+{'text': 'roughly', 'start': 3602.24, 'duration': 4.559}
+{'text': '12 million tons of plastic end up in the', 'start': 3603.44, 'duration': 6.32}
+{'text': 'ocean every year and there is one type', 'start': 3606.799, 'duration': 5.441}
+{'text': "of plastic that's especially dangerous", 'start': 3609.76, 'duration': 6.24}
+{'text': 'to marine wildlife fishing nets', 'start': 3612.24, 'duration': 7.2}
+{'text': 'galaxy s22 is the first smartphone to', 'start': 3616.0, 'duration': 4.72}
+{'text': 'incorporate', 'start': 3619.44, 'duration': 3.6}
+{'text': 'repurposed fishing nets', 'start': 3620.72, 'duration': 4.879}
+{'text': 'in collaboration with industry experts', 'start': 3623.04, 'duration': 5.279}
+{'text': "we've developed a way to recover fishing", 'start': 3625.599, 'duration': 5.601}
+{'text': 'nets and repurpose them into necessary', 'start': 3628.319, 'duration': 4.721}
+{'text': 'parts for our smartphones', 'start': 3631.2, 'duration': 3.119}
+{'text': 'in fact', 'start': 3633.04, 'duration': 4.079}
+{'text': 'we expect to remove more than 50 tons of', 'start': 3634.319, 'duration': 5.361}
+{'text': 'old fishing nets from the oceans this', 'start': 3637.119, 'duration': 4.081}
+{'text': 'year alone', 'start': 3639.68, 'duration': 3.6}
+{'text': 'we also enhanced other eco-conscious', 'start': 3641.2, 'duration': 4.72}
+{'text': 'features of the galaxy s22', 'start': 3643.28, 'duration': 5.839}
+{'text': 'including packaging made with a 100', 'start': 3645.92, 'duration': 6.0}
+{'text': "recycled paper we'll continue to scale", 'start': 3649.119, 'duration': 5.2}
+{'text': 'these efforts across our entire product', 'start': 3651.92, 'duration': 4.879}
+{'text': 'lineup from tablets and buds to the', 'start': 3654.319, 'duration': 6.721}
+{'text': 'galaxy book series and even accessories', 'start': 3656.799, 'duration': 5.52}
+{'text': 'furthermore', 'start': 3661.04, 'duration': 3.92}
+{'text': "we'll extend os upgrades to four", 'start': 3662.319, 'duration': 5.441}
+{'text': 'generations so you can continue to enjoy', 'start': 3664.96, 'duration': 4.8}
+{'text': 'your galaxy devices with the latest', 'start': 3667.76, 'duration': 3.039}
+{'text': 'features', 'start': 3669.76, 'duration': 2.88}
+{'text': 'even longer', 'start': 3670.799, 'duration': 4.641}
+{'text': 'and this is only the beginning', 'start': 3672.64, 'duration': 4.8}
+{'text': "we'll continue to explore new ways to", 'start': 3675.44, 'duration': 4.399}
+{'text': 'address environmental change and make a', 'start': 3677.44, 'duration': 5.52}
+{'text': 'positive impact around the world', 'start': 3679.839, 'duration': 4.641}
+{'text': 'together', 'start': 3682.96, 'duration': 4.399}
+{'text': 'we have the power to drive change', 'start': 3684.48, 'duration': 5.839}
+{'text': 'protecting the planet is not a solo job', 'start': 3687.359, 'duration': 4.96}
+{'text': 'nor a competition', 'start': 3690.319, 'duration': 4.561}
+{'text': 'we can all make small sustainable', 'start': 3692.319, 'duration': 5.601}
+{'text': 'choices every day and drive meaningful', 'start': 3694.88, 'duration': 4.64}
+{'text': 'change', 'start': 3697.92, 'duration': 5.36}
+{'text': 'this is why the galaxy brand exists', 'start': 3699.52, 'duration': 6.48}
+{'text': 'to open up endless possibilities in your', 'start': 3703.28, 'duration': 4.88}
+{'text': 'daily lives and help you create', 'start': 3706.0, 'duration': 4.24}
+{'text': 'meaningful connections', 'start': 3708.16, 'duration': 4.639}
+{'text': 'thank you for joining us stay safe and', 'start': 3710.24, 'duration': 4.22}
+{'text': 'see you next time', 'start': 3712.799, 'duration': 7.621}
+{'text': '[Music]', 'start': 3714.46, 'duration': 5.96}
+{'text': '[Applause]', 'start': 3720.42, 'duration': 9.909}
+{'text': '[Music]', 'start': 3720.42, 'duration': 9.909}
+{'text': 'so', 'start': 3732.24, 'duration': 3.0}
+{'text': '[Music]', 'start': 3735.94, 'duration': 3.779}
+{'text': 'um', 'start': 3741.839, 'duration': 3.0}
+{'text': '[Music]', 'start': 3748.97, 'duration': 3.56}
+{'text': '[Music]', 'start': 3754.86, 'duration': 3.089}
+{'text': '[Music]', 'start': 3760.2, 'duration': 3.12}
+{'text': '[Music]', 'start': 3766.49, 'duration': 13.199}
+{'text': '[Music]', 'start': 3781.91, 'duration': 10.859}
+{'text': '[Music]', 'start': 3795.52, 'duration': 5.959}
+{'text': 'so', 'start': 3802.88, 'duration': 3.0}
+{'text': '[Music]', 'start': 3806.91, 'duration': 9.689}
+{'text': '[Music]', 'start': 3821.4, 'duration': 28.119}
+{'text': '[Music]', 'start': 3853.74, 'duration': 9.05}
+{'text': '[Music]', 'start': 3868.07, 'duration': 13.97}
+{'text': 'you', 'start': 3884.0, 'duration': 2.079}
